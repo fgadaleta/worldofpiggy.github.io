@@ -467,7 +467,3 @@ footer .footer-below {
 #post-preview {
 margin-top: 20px;
 }
-
-#bigger-text {
-font-size: 2em;
-}

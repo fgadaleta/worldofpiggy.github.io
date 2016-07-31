@@ -9,7 +9,7 @@
 			<!--
                         <span class="author"> by {{ site.author }} </span>
                         -->
-			<span class="skills">Written by a {{ site.skills }}</span>
+			<span class="skills">{{ site.skills }}</span>
 			<hr class="star-light">
                     </div>
                 </div>

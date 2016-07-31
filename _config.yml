@@ -3,7 +3,7 @@ title: World of Piggy
 email: worldofpiggy@gmail.com
 url: https://worldofpiggy.github.io
 description: "Thinking human world in mathematical terms. Applied math and data science to every day problems."
-skills: "Data Scientist, Software Engineer, Code Artist"
+skills: "Data Scientist, Software Engineer, and Code Artist"
 meta_author: Gadaleta Francesco
 
 # Google webmaster tools
@@ -20,36 +20,45 @@ contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
+disqus: worldofpiggy
+#disqus_shortname: worldofpiggy    #this is used in js_disqus (which we do not use)
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
+  primary: 18bc9c #80B3FF   
+  text: 434550
   primary-rgb: "24,288,156" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
+# Output options (more information on Jekyll's site)
+timezone: "America/Vancouver"
+markdown: kramdown
+highlighter: rouge
+permalink: /:year-:month-:day-:title/
+paginate: 5
+paginate_path: "/blog/page:num/"
+
 # Footer settings
 footer:
   copyright: Francesco Gadaleta
-  location: Europe
+  location: Where
   social: Around the Web
-  credits: Copyright 2016 All Rights Reserved 
+  credits: Credits  
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
     url: http://twitter.com/worldofpiggy
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/worldofpiggy
   - title: linkedin 
     url: http://www.linkedin.com/fragadaleta 
+  #- title: bitbucket
+  #  url: http://bitbucket.org/jekyll
+
+  
+author: Francesco Gadaleta
 
 # Postal address (add as many lines as necessary)
 address:
@@ -57,8 +66,11 @@ address:
   - line: In the Heart of Europe 
 
 # Credits content
-credits: 'All contents are Copyright of worldofpiggy.com  '
+credits: 'Distribution of content is allowed with Copyright notice (c) 2016 worldofpiggy.com  '
 
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+gems:
+  - jekyll-paginate
