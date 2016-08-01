@@ -4,16 +4,8 @@
     <body id="page-top" class="index">
     {% include nav.html %}
 
-    <!-- Header -->
-    <header>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                </div>
-            </div>
-        </div>
-    </header>
-    
+ <div style="height:150px; width:100%; clear:both;"></div>    
+
  <div class="container" role="main">
  <div class="row">
     <div class="col-lg-16 text-center">
@@ -31,7 +23,7 @@
           Tags: 
           {% if site.link-tags %}
           {% for tag in page.tags %}
-            <a href="/tag/{{ tag }}">{{ tag }}</a>
+            <a href="/tag/#{{ tag }}" class="tag fa fa-tag">{{ tag }}</a>
           {% endfor %}
           {% else %}
             {{ page.tags | join: ", " }}

@@ -464,10 +464,28 @@ footer .footer-below {
 }
 
 
-#post-preview {
-margin-top: 20px;
+.post-preview {
+  margin-top: 40px;
 }
 
-#bigger-text {
-font-size: 2em;
+.post-entry{
+  font-size: 1.3em;
+}
+
+.blog-tags{
+  margin: auto;
+  margin-bottom: 42px;
+}
+
+.bigger-text {
+  display: inline;
+  font-size: 1.3em;
+  margin-left: 10px;
+}
+
+.tag {
+  text-transform: uppercase;
+  font-size: 1em;
+  margin: 10px;
+  
 }
