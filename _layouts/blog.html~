@@ -3,12 +3,11 @@
     {% include head.html %}
     <body id="page-top" class="index">
     {% include nav.html %}
-    {% include header.html %}
+    <!-- {% include header.html %} -->
+   <div style="height:100px; width:100%; clear:both;"></div>
+    
     {% include blog_grid.html %}
-    
-
-    
-
+   
     {% include footer.html %}
     {% include modals.html %}
     {% include js.html %}
