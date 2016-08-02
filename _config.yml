@@ -6,6 +6,19 @@ description: "Thinking human world in mathematical terms. Applied math and data 
 skills: "Data Scientist, Software Engineer, and Code Artist"
 meta_author: Gadaleta Francesco
 
+# Publication date
+#time: 2011-12-01 
+#lang: en
+
+# podcast info
+podcast_title: Data Science at Home
+podcast_subtitle: podcast subtitle
+podcast_url: /podcast
+podcast_description: podcast description 
+podcast_author:  Francesco Gadaleta
+podcast_copyright:  "&#x2117; &amp; &#xA9; 2016"
+podcast_keywords: [data science, big data, predictive, analytics]
+
 # Google webmaster tools
 google_verify:
 
@@ -58,10 +71,7 @@ social:
     url: http://github.com/worldofpiggy
   - title: linkedin 
     url: http://www.linkedin.com/fragadaleta 
-  #- title: bitbucket
-  #  url: http://bitbucket.org/jekyll
 
-  
 author: Francesco Gadaleta
 
 # Postal address (add as many lines as necessary)
