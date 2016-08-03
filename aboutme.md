@@ -18,15 +18,17 @@ ___
 ![alt text](/img/linkedin_2014_round.jpg "Profile Picture 2014")
 {:style="float: left; margin-right: 35px; margin-bottom: 15px; margin-top: 2px;"}
 
-Here we are, Piggy and I. We share one room, a number of books, and of course problems and their *probable* solutions. We read about data, math, stats, and computers, and we make things.
-We see science in every day life. We just love it.
+Here we are, Piggy and I. We share one room, a number of books, and of course problems and their solutions. We read about data, math, stats, and computers, and we make things.
+We see science in every day life. We just love it!
 
-# My history
+# My story
 
-With this said. Who am I? 
+So, who am I? 
 Feel free to take some time to get to know me or just skip straight to the content (probably more interesting than my achievements) 😉
-I am Francesco Gadaleta, Ph.D – Data Scientist formerly at several universities, then at a research hospital and currently in the Advanced Analytics Team of Johnson&Johnson.
-My career so far can be split in three major periods: the Academic, the Research Hospital, and the Domestic.
+
+I am Francesco Gadaleta, Ph.D – Data Scientist formerly at several universities, then at a research hospital and currently member of the Advanced Analytics Team of Johnson&Johnson.
+I received my first computer back in 1988, and at the age of seven I started exploring the quite limited capabilities of the BASIC language. After that I switched to ANSI C.
+The passion for math and computer programming have driven my career ever since. There are three major periods that formed me: the Academic, the Pragmatic and the Domestic.
 
 ## The Academic Period
 As former member of the Statistical Genetics Unit at the Montefiore Institute, Department of Electrical Engineering and Computer Science of the University of Liège, I have been involved in the FNRS Granted Integromics project and find solutions to integrate heterogeneous data (OMICS) within a common framework. In the aformentioned project I could assemble networks and merge clinical and genetic data together 
@@ -34,7 +36,7 @@ to make predictions about the risks and diseases of patients.
 Patients at that time were in the form of lab mice or synthetic individuals.
 
 
-## The Research Hospital Period
+## The Pragmatic Period
 
 As researcher at the Department of Human Genetics at the University Hospital UZ  Leuven, I focused on the analysis of array CGH and Next Generation Sequencing data in molecular diagnostics. 
 I have been specifically involved in a project related to the analysis of prenatal testing data NIPT (Non-Invasive-Prenatal-Testing) in Belgium.
@@ -58,12 +60,13 @@ Academic background and on site experience provided me of the most powerful theo
 This is ongoing. As theory goes nowhere without practice, I daily experiment and build things that work. Stuff that people compile and run on real infrastructure, with real data and get real results.
 Hence the most important skills I have acquired across the years comprise 
 
-### Languages
-- GNU/Linux operating system, 
-- C/C++, PHP, SQL, Perl
+### OS and Programming Languages
+
+- GNU/Linux operating system, HP-UX
+- C/C++, PHP, SQL, Perl, Lisp
 - Python, R, Java,
 
-### Infrastructure
+### Computing Infrastructure
 - Virtualization technology,
 - Amazon Web Service (AWS), 
 - Spark, 

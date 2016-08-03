@@ -8,16 +8,18 @@ meta_author: Gadaleta Francesco
 
 # Publication date
 #time: 2011-12-01 
-#lang: en
+lang: en-us
 
 # podcast info
-podcast_title: Data Science at Home
-podcast_subtitle: podcast subtitle
-podcast_url: /podcast
-podcast_description: podcast description 
-podcast_author:  Francesco Gadaleta
-podcast_copyright:  "&#x2117; &amp; &#xA9; 2016"
-podcast_keywords: [data science, big data, predictive, analytics]
+podcast:
+  title: Data Science at Home
+  subtitle: podcast subtitle
+  url: podcast
+  description: podcast description 
+  author: Francesco Gadaleta
+  copyright:  "&#x2117; &amp; &#xA9; 2016"
+  keywords: [data science, big data, predictive, analytics]
+  explicit: no
 
 # Google webmaster tools
 google_verify:
@@ -53,7 +55,7 @@ timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 15
 paginate_path: "/blog/page:num/"
 
 # Footer settings

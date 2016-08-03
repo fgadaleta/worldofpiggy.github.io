@@ -483,9 +483,17 @@ footer .footer-below {
   margin-left: 10px;
 }
 
+.smaller-text{
+   font-size: 0.8em;
+   line-height: 50%;
+}
+
 .tag {
   text-transform: uppercase;
   font-size: 1em;
   margin: 10px;
-  
+}
+
+.podcast-info {
+  margin-top: -20px;
 }
