@@ -1,7 +1,6 @@
 <script src="{{ "/js/audio/jquery.js" }}"></script> 
 <script src="{{ "/js/audio/audio.js" }}"></script>
-
-   <script>
+<script>
       $(function() { 
         // Setup the player to autoplay the next track
         var a = audiojs.createAll({
@@ -46,89 +45,112 @@
           }
         })
       });
-    </script>
+</script>
     
-    
+
  <style>
-      body { color: #666; font-family: sans-serif; line-height: 1.4; }
-      h1 { color: #444; font-size: 1.2em; padding: 14px 2px 12px; margin: 0px; }
-      h1 em { font-style: normal; color: #999; }
-      a { color: #888; text-decoration: none; }
-      #wrapper { width: 450px; margin: 40px auto; }
-      
-      ol { padding: 0px; margin: 0px; list-style: decimal-leading-zero inside; color: #ccc; width: 460px; border-top: 1px solid #ccc; font-size: 0.9em; }
+      #wrapper { margin: 10px auto; }
+      .audiojs {width: 700px; height: 36px;}
+      .audiojs .scrubber { position: relative; float: left; width: 480px; background: #5a5a5a; height: 14px; margin: 10px; border-top: 1px solid #3f3f3f; border-left: 0px; border-bottom: 0px; overflow: hidden; } 
+        
+      ol { padding: 0px; margin: 0px; list-style: decimal-leading-zero inside; color: #ccc; width: 700px; border-top: 1px solid #ccc; font-size: 0.9em; }
       ol li { position: relative; margin: 0px; margin-top: 10px; padding: 9px 2px 10px; border-bottom: 1px solid #ccc; cursor: pointer;}
-      ol li a { display: block; text-indent: -3.3ex; padding: 0px 0px 0px 20px; }
+      ol li a { max-width: 320px; display: block; text-indent: 0ex; padding: 0px 10px 0px 0px; }
       li.playing { color: #aaa; text-shadow: 1px 1px 0px rgba(255, 255, 255, 0.3); }
       li.playing a { color: #000; }
       li.playing:before { content: '♬'; width: 14px; height: 14px; padding: 3px; line-height: 14px; margin: 0px; position: absolute; left: -24px; top: 9px; color: #000; font-size: 13px; text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.2); }
       
       #info {position: relative; float: right; display: inline; margin-top: -40px;}
       #shortcuts { position: relative; bottom: 0px; width: 100%; color: #666; font-size: 0.9em; margin: 60px 0px 0px; padding: 20px 20px 15px; background: #f3f3f3; background: rgba(240, 240, 240, 0.7); }
-      #shortcuts div { width: 460px; margin: 0px auto; position:relative;}
+      #shortcuts div { width: 360px; margin: 0px auto; position:relative;}
       #shortcuts h1 { margin: 0px 0px 6px; }
       #shortcuts p { margin: 0px 0px 18px; }
       #shortcuts em { font-style: normal; background: #d3d3d3; padding: 3px 9px; position: relative; left: -3px;
         -webkit-border-radius: 4px; -moz-border-radius: 4px; -o-border-radius: 4px; border-radius: 4px;
         -webkit-box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1); -moz-box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1); -o-box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1); box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1); }
 
-      @media screen and (max-device-width: 480px) {
-        #wrapper { position: relative; left: -3%; }
+      /* iphone5 */
+      @media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 568px) {
+        .audiojs {width: 310px; height: 36px;}
+        .audiojs .scrubber { position: relative; float: left; width: 150px; background: #5a5a5a; height: 14px; margin: 10px; border-top: 1px solid #3f3f3f; border-left: 0px; border-bottom: 0px; overflow: hidden; } 
+        ol { padding: 0px; margin: 0px; list-style: decimal-leading-zero inside; color: #ccc; width: 320px; border-top: 1px solid #ccc; font-size: 0.9em; }
+        ol li a { max-width: 300px; display: block; text-indent: 0ex; padding: 0px 10px 0px 0px; }
+        #wrapper { width: 320px; position: relative; left: -3%; }
         #shortcuts { display: none; }
       }
-    </style>
+      
+      /* iphone6 */
+      @media only screen 
+and (min-device-width : 414px) 
+and (max-device-width : 736px) {
+        .audiojs {width: 370px; height: 36px;}
+        .audiojs .scrubber { position: relative; float: left; width: 150px; background: #5a5a5a; height: 14px; margin: 10px; border-top: 1px solid #3f3f3f; border-left: 0px; border-bottom: 0px; overflow: hidden; } 
+        ol { padding: 0px; margin: 0px; list-style: decimal-leading-zero inside; color: #ccc; width: 320px; border-top: 1px solid #ccc; font-size: 0.9em; }
+        ol li a { max-width: 300px; display: block; text-indent: 0ex; padding: 0px 10px 0px 0px; }
+        #wrapper { width:400px; position: relative; left: -3%; }
+        #shortcuts { display: none; }
+      }
+      
+      /* ipad */
+      @media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px)  {
+        .audiojs {width:700px; height: 42px;}
+        .audiojs .scrubber { position: relative; float: left; width: 450px; background: #5a5a5a; height: 14px; margin: 10px; border-top: 1px solid #3f3f3f; border-left: 0px; border-bottom: 0px; overflow: hidden; } 
+        ol { padding: 0px; margin: 0px; list-style: decimal-leading-zero inside; color: #ccc; width: 700px; border-top: 1px solid #ccc; font-size: 0.9em; }
+        #wrapper { width: 700px; }
+        #shortcuts { display: none; }
+      }
+
+ </style>
+
+   
+
+   
    
 <!-- Podcast Grid Section -->
-<section id="blog">
-    
+<section id="portfolio">
     <div class="container">
          <div class="row">
               <div class="col-lg-12 text-center">
                   <h2>{{ page.title }} </h2>  
                   <h3>{{ page.subtitle }} </h3>
-                  
                   <hr class="star-primary">
                </div>
-         </div>            
-               
-<div style="height:10px; width:100%; clear:both;"></div>
+         </div>  
 
-<div class="row">
-<div class="col-lg-2">
+	<div class="row">
+		<div class="col-lg-2"> </div>
+		<div class="col-lg-10">
+		   <div id="wrapper">
+		      <h3>Play and enjoy the show</h3>
+		      
+		      
+		      <audio preload></audio>
+		      <ol>
+		      {% for post in site.posts %}
+		      {% if post.category contains 'podcast' %}
+			<li> <a href="#" data-src="{{ post.media }}">{{ post.title }}</a> </li> 
+		      	<div id="info"> 
+		       		<a href="{{ post.url | prepend: site.baseurl }}"> 
+			  	<i class="fa fa-info-circle fa-3x" aria-hidden="true"></i> 
+		       		</a>
+		      	</div>
+		      {% endif %}
+		      {% endfor %}
+		    </ol>
+		    
+		  </div> <!-- wrapper -->
+		</div>
+		  
+		<div class="col-lg-1"></div>
 
-</div>
-
-<div class="col-lg-8">
-              
-   <div id="wrapper">
-      <h1>Play and enjoy the show</h1>
-      <audio preload></audio>
-      <ol>
-      {% for post in site.posts %}
-      {% if post.category contains 'podcast' %}
-
-      <li> <a href="#" data-src="{{ post.media }}">{{ post.title }}</a> </li> 
-      
-      <div id="info"> 
-       <a href="{{ post.url | prepend: site.baseurl }}"> 
-          <i class="fa fa-info-circle fa-3x" aria-hidden="true"></i> 
-       </a>
-      </div>
-
-      {% endif %}
-      {% endfor %}
-    </ol>
-  </div>
-  
-<div class="col-lg-2">
-
-</div>
-
-</div>
-
-
-</div> <!-- row -->
+	</div> <!-- row -->
 </div> <!-- container -->
+</section>
+
 
 <!--
 <div id="shortcuts">
@@ -141,4 +163,3 @@
 </div>
 -->
 
-</section>

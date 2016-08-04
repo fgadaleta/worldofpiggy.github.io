@@ -497,3 +497,11 @@ footer .footer-below {
 .podcast-info {
   margin-top: -20px;
 }
+
+@media(max-width:400px){
+	.podcast-info {
+	  margin-top: -20px;
+	  text-align: center;
+	}
+}
+}
