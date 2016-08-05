@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why would you keep reading this pages 
+subtitle: Why would you read this stuff 
 ---
 
 <center>
