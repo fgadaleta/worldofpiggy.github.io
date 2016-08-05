@@ -18,10 +18,11 @@
                     
                     <div class="footer-col col-md-4">
                         <h3>{{ site.footer.location }}</h3>
-                        {% for cred in site.credits %}
-                        <p>{{ cred.line }}</p>
+                        {% for adress in site.address %}
+                        <p><a href="{{ adress.url }}"> {{ adress.line }}</a>
+                        </p>
                         {% endfor %}
-                        Something else here in <i class="fa fa-tint" aria-hidden="true"></i> Belgium
+                        
                     </div>
                     
                     
