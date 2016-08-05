@@ -24,6 +24,7 @@ a.active {
     outline: 0;
     color: #{{ site.color.text }};
     font-weight: bold;
+    text-decoration: none;
 }
 
 h1,
@@ -373,6 +374,7 @@ a:focus,
 a:active,
 a.active {
     text-decoration:none;
+    color: white;
 }
 
 .btn-social {
