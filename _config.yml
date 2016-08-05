@@ -89,7 +89,9 @@ address:
     url: http://twitter.com/worldofpiggy
 
 # Credits content
-credits: 'Copyright (c) 2016 worldofpiggy.com Made in rainy Belgium'
+credits:
+  - line: 'Copyright (c) 2016 worldofpiggy.com'
+  - line: 'Made in rainy Belgium'
 
 # Build settings
 markdown: kramdown
