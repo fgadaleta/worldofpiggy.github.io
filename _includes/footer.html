@@ -6,9 +6,13 @@
                     <div class="footer-col col-md-4">
                         <h3>{{ site.footer.location }}</h3>
                         <p>
-                            {% for adress in site.address %}
-                                <a href="{{ adress.url }}">  {{ adress.line }} </a> <br>
-		                    {% endfor %}
+                        	<ul>
+                        	{% for adress in site.address %}
+                            	<li>
+                                <a href="{{ adress.url }}">  {{ adress.line }} </a> 
+                                </li>
+		                {% endfor %}
+		                </ul>
                         </p>
                     </div>
                     
