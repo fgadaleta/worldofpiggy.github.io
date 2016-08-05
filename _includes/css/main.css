@@ -359,6 +359,12 @@ footer .footer-below {
     background-color: #{{ site.color.secondary-dark }};
 }
 
+.btn-world {
+    display: block;
+    text-align: left;
+    font-size: 20px;
+}
+
 .btn-social {
     display: inline-block;
     width: 50px;
