@@ -368,11 +368,8 @@ footer .footer-below {
     text-decoration: none;
 }
 
-.btn-world a,
-a:hover,
-a:focus,
-a:active,
-a.active {
+.btn-world:hover,
+.btn-world:active {
     text-decoration:none;
     color: white;
 }
