@@ -17,6 +17,15 @@
                     </div>
                     
                     <div class="footer-col col-md-4">
+                        <h3>{{ site.footer.location }}</h3>
+                        {% for cred in site.credits %}
+                        <p>{{ cred.line }}</p>
+                        {% endfor %}
+                        Something else here in <i class="fa fa-tint" aria-hidden="true"></i> Belgium
+                    </div>
+                    
+                    
+                    <div class="footer-col col-md-4">
                         <h3>{{ site.footer.social }}</h3>
                         <ul class="list-inline">
                             {% for network in site.social %}
@@ -33,7 +42,6 @@
                         <p>{{ cred.line }}</p>
                         {% endfor %}
                         Made in <i class="fa fa-tint" aria-hidden="true"></i> Belgium
-
                     </div>
                 </div>
             </div>
