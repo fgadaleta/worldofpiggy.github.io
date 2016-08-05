@@ -11,6 +11,7 @@
 		                    {% endfor %}
                         </p>
                     </div>
+                    
                     <div class="footer-col col-md-4">
                         <h3>{{ site.footer.social }}</h3>
                         <ul class="list-inline">
@@ -21,9 +22,12 @@
 		                    {% endfor %}
                         </ul>
                     </div>
+                    
                     <div class="footer-col col-md-4">
                         <h3>{{ site.footer.credits }}</h3>
-                        <p>{{ site.credits }}</p>
+                        {% for line in site.credits %}
+                        <p>{{ line }}</p>
+                        {% endfor %}
                     </div>
                 </div>
             </div>
