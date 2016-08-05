@@ -2,7 +2,6 @@
 layout: episode
 category: podcast
 title: EU Regulations and the rise of Data Hijackers
-url: /podcast/2016/07/26/eu-regulation-data-hijackers
 date: 2016-07-26
 keywords: [big data, correlation, data science, EU, law,legal,machine learning,regulation]
 producer: worldofpiggy.com
@@ -15,8 +14,10 @@ excerpt: Extracting knowledge from large datasets with large number of variables
 comments: true
 ---
 
-<img src="http://worldofpiggy.com/wp-content/uploads/2016/01/cover.jpg" width="350px"/>
-<div style="height:42px; width:100%; clear:both;"></div>
+
+<img src="http://worldofpiggy.com/wp-content/uploads/2016/01/cover.jpg" />
+
+
 
 The subject of this episode is about a recent regulation that is being considered by EU that needs the attention of experts in data analytics and machine learning.
 

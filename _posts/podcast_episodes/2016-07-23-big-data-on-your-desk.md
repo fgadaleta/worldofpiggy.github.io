@@ -16,14 +16,15 @@ comments: true
 
 
 
-<img src="http://worldofpiggy.com/wp-content/uploads/2016/01/cover.jpg" width="350px"/>
+<img src="http://worldofpiggy.com/wp-content/uploads/2016/01/cover.jpg" />
 
-<div style="height:10px; width:100%; clear:both;"></div>
+
 
 
 Have you ever thought to get a Big Data infrastructure on your desk? That’s right! On your desk.
 
-In this episode I met Wim Van Leuven ([Twitter](https://twitter.com/wimvanleuven), [LinkedIn](https://be.linkedin.com/in/wimvanleuven)), software guy (and much more), who is operating in the data science arena for a while.
+In this episode I met Wim Van Leuven ([Twitter](https://twitter.com/wimvanleuven), [LinkedIn](https://be.linkedin.com/in/wimvanleuven)), software guy (and much more), 
+who is operating in the data science arena for a while.
 
 He is co-founder of [BigBoards.io](http://www.bigboards.io) and he has one mission: **bringing big data analytics to your desk, in less than 1h.**
 

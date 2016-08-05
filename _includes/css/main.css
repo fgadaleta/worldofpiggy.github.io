@@ -80,6 +80,10 @@ hr.star-primary:after {
     margin: 0 auto;
 }
 
+img {
+   max-width: 700px;
+}
+
 header {
     text-align: center;
     color: #fff;
@@ -498,10 +502,50 @@ footer .footer-below {
   margin-top: -20px;
 }
 
-@media(max-width:400px){
+
+/* shitty phone */
+@media only screen 
+and (min-device-width : 200px) 
+and (max-device-width : 320px)
+{
+       
+       img {
+       	width: 100%;
+       	margin: 2px;
+       }
+}
+
+/* iphone5 */
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 568px) 
+{
 	.podcast-info {
 	  margin-top: -20px;
 	  text-align: center;
 	}
+
+       img {
+       	width: 100%;
+       }
+       
+       iframe{
+         width: 100%;
+       }
 }
+
+/* ipad */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+{
+      img {
+ 	  max-width: 700px;
+ 	  float: left;
+ 	  margin-right: 42px;	  
+       }
+       
+       iframe{
+        width: 100%;
+         }
 }

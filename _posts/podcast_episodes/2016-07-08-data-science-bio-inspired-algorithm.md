@@ -16,7 +16,7 @@ comments: true
 
 
 
-<img src="http://worldofpiggy.com/wp-content/uploads/2016/01/cover.jpg" width="350px"/>
+<img src="http://worldofpiggy.com/wp-content/uploads/2016/01/cover.jpg" />
 
 <div style="height:10px; width:100%; clear:both;"></div>
 
