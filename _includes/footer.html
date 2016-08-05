@@ -3,29 +3,16 @@
         <div class="footer-above">
             <div class="container">
                 <div class="row">
+                	
                     <div class="footer-col col-md-4">
                         <h3>{{ site.footer.location }}</h3>
-                        <p>
-                        	
                         	{% for adress in site.address %}
-                            	<p class="btn-world">
-                                <a href="{{ adress.url }}" >  {{ adress.line }} </a> 
+                            	<p>
+                                <a href="{{ adress.url }}" class="btn-world">  {{ adress.line }} </a> 
                                 </p>
 		                {% endfor %}
-		               
-                        </p>
                     </div>
-                    
-                    <div class="footer-col col-md-4">
-                        <h3>{{ site.footer.location }}</h3>
-                        {% for adress in site.address %}
-                        <p><a href="{{ adress.url }}"> {{ adress.line }}</a>
-                        </p>
-                        {% endfor %}
-                        
-                    </div>
-                    
-                    
+                 
                     <div class="footer-col col-md-4">
                         <h3>{{ site.footer.social }}</h3>
                         <ul class="list-inline">
