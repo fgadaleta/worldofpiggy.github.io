@@ -92,7 +92,7 @@ address:
 credits:
   - line: 'Copyright (c) 2016'
   - line: 'worldofpiggy.com'
-  - line: 'Made in rainy Belgium'
+  
 
 # Build settings
 markdown: kramdown
