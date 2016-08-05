@@ -367,6 +367,14 @@ footer .footer-below {
     text-decoration: none;
 }
 
+.btn-world a,
+a:hover,
+a:focus,
+a:active,
+a.active {
+    text-decoration:none;
+}
+
 .btn-social {
     display: inline-block;
     width: 50px;
