@@ -61,7 +61,7 @@ paginate_path: "/blog/page:num/"
 # Footer settings
 footer:
   copyright: Francesco Gadaleta
-  location: Where are we
+  location: Services
   social: Social
   credits: Credits  
 
@@ -78,13 +78,13 @@ author: Francesco Gadaleta
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Somewhere
-  - line: In the Heart of Europe 
+  - line: Design
+  - line: Reviews
+  - line: Consultancy
+  - line: Podcast
 
 # Credits content
-credits: 
-  - line: 'Copyright (c) 2016 worldofpiggy.com'
-  - line: 'Made in rainy Belgium'
+credits: 'Copyright (c) 2016 worldofpiggy.com Made in rainy Belgium'
 
 # Build settings
 markdown: kramdown
