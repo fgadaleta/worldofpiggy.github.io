@@ -15,7 +15,7 @@ subtitle: Why would you keep reading this pages
 ___
 
 <center>
-![profile](/img/linkedin_2014_round.jpg "Profile Picture 2014")
+![profile](https://worldofpiggy.github.io/img/linkedin_2014_round.jpg "Profile Picture 2014")
 </center>
 Here we are, Piggy and I. We share one room, a number of books, and of course problems and their solutions. We read about data, math, stats, and computers, and we make things.
 We see science in every day life. We just love it!
