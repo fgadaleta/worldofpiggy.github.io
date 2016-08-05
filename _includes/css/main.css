@@ -364,6 +364,7 @@ footer .footer-below {
     text-align: left;
     font-size: 20px;
     color: white;
+    text-decoration: none;
 }
 
 .btn-social {
