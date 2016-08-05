@@ -10,7 +10,7 @@ body {
 
 p {
     font-size: 20px;
-}
+} 
 
 p.small {
     font-size: 16px;
@@ -362,7 +362,7 @@ footer .footer-below {
 
 .btn-world {
     display: block;
-    text-align: left;
+    text-align: center;
     font-size: 20px;
     color: white;
     text-decoration: none;
@@ -563,4 +563,10 @@ and (max-device-width : 1024px)
        iframe{
         width: 100%;
          }
+}
+
+.center-image
+{
+    margin: 0 auto;
+    display: block;
 }
