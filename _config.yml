@@ -62,7 +62,7 @@ paginate_path: "/blog/page:num/"
 footer:
   copyright: Francesco Gadaleta
   location: Where are we
-  social: We are social
+  social: Social
   credits: Credits  
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -82,7 +82,9 @@ address:
   - line: In the Heart of Europe 
 
 # Credits content
-credits: 'Distribution of content is allowed with Copyright notice (c) 2016 worldofpiggy.com  '
+credits: 
+  - line: 'Copyright (c) 2016 worldofpiggy.com'
+  - line: 'Made in rainy Belgium'
 
 # Build settings
 markdown: kramdown
