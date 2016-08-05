@@ -7,7 +7,7 @@
                         <h3>{{ site.footer.location }}</h3>
                         <p>
                             {% for adress in site.address %}
-                                {{ adress.line }} <br>
+                                <a href="{{ adress.url }}">  {{ adress.line }} </a> <br>
 		                    {% endfor %}
                         </p>
                     </div>
