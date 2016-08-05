@@ -79,9 +79,13 @@ author: Francesco Gadaleta
 # Postal address (add as many lines as necessary)
 address:
   - line: Design
+    url: http://twitter.com/worldofpiggy
   - line: Reviews
+    url: http://twitter.com/worldofpiggy
   - line: Consultancy
+    url: http://twitter.com/worldofpiggy
   - line: Podcast
+    url: http://twitter.com/worldofpiggy
 
 # Credits content
 credits: 'Copyright (c) 2016 worldofpiggy.com Made in rainy Belgium'
