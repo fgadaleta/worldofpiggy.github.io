@@ -60,8 +60,9 @@ paginate_path: "/blog/page:num/"
 
 # Footer settings
 footer:
-  copyright: Francesco Gadaleta
+  copyright: worldofpiggy.com
   location: Services
+  world: World
   social: Social
   credits: Credits  
 
