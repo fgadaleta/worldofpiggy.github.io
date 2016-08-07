@@ -79,13 +79,13 @@ author: Francesco Gadaleta
 # Postal address (add as many lines as necessary)
 address:
   - line: Blog
-    url: http://twitter.com/worldofpiggy
+    url: /blog
   - line: Podcast
-    url: http://twitter.com/worldofpiggy
+    url: /podcast
   - line: Services
-    url: http://twitter.com/worldofpiggy
+    url: /services
   - line: About
-    url: http://twitter.com/worldofpiggy
+    url: /about
 
     
 # Credits content
