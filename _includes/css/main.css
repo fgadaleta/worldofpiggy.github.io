@@ -563,6 +563,10 @@ and (max-device-width : 1024px)
        iframe{
         width: 100%;
          }
+         
+     .mc-modal {
+     top: 250px;
+     }
 }
 
 .center-image
