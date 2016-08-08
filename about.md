@@ -14,8 +14,8 @@ subtitle: Why would you read this stuff
 </center>
 ___
 
+<img src="https://worldofpiggy.github.io/img/linkedin_2014_round.jpg" />
 
-![profile](https://worldofpiggy.github.io/img/linkedin_2014_round.jpg "Profile Picture 2014")
 
 Here we are, Piggy and I. We share one room, a number of books, and of course problems and their solutions. We read about data, math, stats, and computers, and we make things.
 We see science in every day life. We just love it!
