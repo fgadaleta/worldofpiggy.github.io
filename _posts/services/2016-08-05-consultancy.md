@@ -10,5 +10,5 @@ project-date: NA
 client: NA
 category: Consultancy
 title: Consultancy
-description: We provide technical training on statistics, data science, the most prominent software packages currently available, and distributed infrastructure to give the insights you need to start your own data analytics pipeline in the most optimized and efficient environment.
+description: I can provide technical training on statistics, data science, the most prominent software packages currently available, and distributed infrastructure in order to give the insights you need to start your own data analytics pipeline in the most optimized and efficient environment. I am usually glad to help. Feel free to contact me.
 ---

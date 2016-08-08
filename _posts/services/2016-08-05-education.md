@@ -10,5 +10,5 @@ project-date: NA
 client: NA
 category: Education
 title: Technical training
-description: We provide technical training on statistics, data science, computer programming, and allocating computing infrastructure, using the most advanced technologies and software packages. Our training facilitates setting data analytics pipelines in the most optimized and cost effective.
+description: I provide high quality training on statistics, data science, computer programming, in order to facilitate setting data analytics pipelines in the most optimized and cost effective ways. I am usually glad to help. Feel free to contact me.
 ---
