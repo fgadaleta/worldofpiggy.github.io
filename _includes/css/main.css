@@ -556,7 +556,7 @@ and (max-device-width : 1024px)
 {
       img {
  	  max-width: 700px;
- 	  float: left;
+ 	  /*float: left;*/
  	  margin-right: 42px;	  
        }
        
