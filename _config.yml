@@ -19,7 +19,7 @@ podcast:
   author: Francesco Gadaleta
   copyright:  "&#x2117; &amp; &#xA9; 2016"
   keywords: [data science, big data, predictive, analytics]
-  explicit: no
+  explicit: clean
 
 # Google webmaster tools
 google_verify: 
