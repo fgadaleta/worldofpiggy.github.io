@@ -16,7 +16,7 @@ layout: null
 		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 		<image>
 			<title>{{ site.podcast.title }}</title>
-			<link>https://s3.amazonaws.com/dshpodcast/media/cover.jpg</link>
+			<link>s3.amazonaws.com/dshpodcast/media/cover.jpg</link>
 			<url>https://s3.amazonaws.com/dshpodcast/media/cover.jpg</url>
 			<title>{{ site.podcast.title }}</title>
 		</image>
@@ -32,7 +32,6 @@ layout: null
 		
 		<itunes:category text="Technology">
 		<itunes:category text="Podcasting" />
-		<itunes:category text="Education" />
 		</itunes:category>
 		<itunes:explicit>{{ site.podcast.explicit }}</itunes:explicit>	
 		
