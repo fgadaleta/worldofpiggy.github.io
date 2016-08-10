@@ -5,17 +5,17 @@ title: Representative Subsets For Big Data Learning
 date: 2016-05-03
 keywords: [similarity, big data, similarity, data science, correlation, kernel methods, analytics]
 producer: worldofpiggy.com
-explicit: no
+explicit: clean
 block: not available
 duration: "21:26"
-length: 196000000
+length: 19600000
 media: https://s3.amazonaws.com/dshpodcast/media/datascience_episode_roccolangone.mp3
 excerpt: How would you perform accurate classification on a very large dataset by just looking at a sample of it
 comments: true
 ---
 
 
-<img src="http://worldofpiggy.com/wp-content/uploads/2016/01/cover.jpg" />
+<img src="https://s3.amazonaws.com/dshpodcast/media/cover.jpg" />
 
 
 How would you perform accurate classification on a very large dataset, by just looking at a sample of it?
@@ -32,20 +32,25 @@ Enjoy!
 
 
 ### Show notes
-<a href="http://worldofpiggy.com/wp-content/uploads/2016/05/Representative_Subsets_For_Big_Data_Lear.pdf"> 
+<a href=" 	
+https://s3-eu-west-1.amazonaws.com/wopcontent/uploads/2016/05/Representative_Subsets_For_Big_Data_Lear.pdf"> 
 Representative Subsets For Big Data Learning using k -NN Graphs</a> 
 
-<a href="http://worldofpiggy.com/wp-content/uploads/2016/05/Flowchart.jpg" rel="attachment wp-att-2960">
+<a href=" 	
+https://s3-eu-west-1.amazonaws.com/wopcontent/uploads/2016/05/Flowchart.jpg" rel="attachment wp-att-2960">
 </a>
 
-<img src="http://worldofpiggy.com/wp-content/uploads/2016/05/Flowchart.jpg" />
-<img class="wp-image-2960 size-large" src="http://worldofpiggy.com/wp-content/uploads/2016/05/Flowchart-1024x224.jpg" alt="Flowchart" width="550" height="120" /></a> 
+<img src=" 	
+https://s3-eu-west-1.amazonaws.com/wopcontent/uploads/2016/05/Flowchart.jpg" />
+<img class="wp-image-2960 size-large" src=" 	
+https://s3-eu-west-1.amazonaws.com/wopcontent/uploads/2016/05/Flowchart-1024x224.jpg" alt="Flowchart" width="550" height="120" /></a> 
 Algorithm Flowchart[/caption]
 
-<a href="http://worldofpiggy.com/wp-content/uploads/2016/05/mapreduce.jpg" />
+<a href=" 	
+https://s3-eu-west-1.amazonaws.com/wopcontent/uploads/2016/05/mapreduce.jpg" />
 </a>
 
-<img src="http://worldofpiggy.com/wp-content/uploads/2016/05/mapreduce.jpg">
+<img src=h"ttps://s3-eu-west-1.amazonaws.com/wopcontent/uploads/2016/05/mapreduce.jpg">
 Distributed Map-Reduce graph construction
 
 
