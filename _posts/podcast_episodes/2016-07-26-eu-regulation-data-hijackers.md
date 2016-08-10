@@ -5,7 +5,7 @@ title: EU Regulations and the rise of Data Hijackers
 date: 2016-07-26
 keywords: [big data, correlation, data science, EU, law,legal,machine learning,regulation]
 producer: worldofpiggy.com
-explicit: no
+explicit: clean
 block: not available
 duration: "16:17"
 length: 14900000
