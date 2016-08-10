@@ -8,14 +8,14 @@ producer: worldofpiggy.com
 explicit: no
 block: not available
 duration: "16:17"
-length: 149000000
+length: 14900000
 media: https://s3.amazonaws.com/dshpodcast/media/datascience_episode_15_GDPR.mp3
 excerpt: Extracting knowledge from large datasets with large number of variables is always tricky. Dimensionality reduction helps in analyzing high dimensional data, still maintaining most of the information hidden behind complexity. Here are some methods that you must try before further analysis (Part 1).
 comments: true
 ---
 
 
-<img src="http://worldofpiggy.com/wp-content/uploads/2016/01/cover.jpg" />
+<img src="https://s3.amazonaws.com/dshpodcast/media/cover.jpg" />
 
 
 
@@ -34,7 +34,7 @@ Maybe the chances that you are protecting the interests of a financial instituti
 
 All of this can be illegal, in just less than 2 years.
 
---- 
+
 
 According to a EU regulation that will take place in April 2018, it has been decided that algorithms that make decisions based on user-level predictors which “significantly affect” users, should be regulated. We will go to the details of what significantly affect means.
 
