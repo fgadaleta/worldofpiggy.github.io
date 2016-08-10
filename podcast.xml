@@ -44,15 +44,14 @@ layout: null
 				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
 				<description>{{ post.excerpt | xml_escape }}</description>
 				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
-				<enclosure url="http:{{ post.media }}" length="{{ post.length }}" type="audio/mp3"/>
+				<enclosure url="{{ post.media }}" length="{{ post.length }}" type="audio/mp3"/>
 				<itunes:author>{{ site.podcast.author }}</itunes:author>
 				<itunes:subtitle>{{ site.podcast.title }}: {{ post.title }}</itunes:subtitle>
 				<itunes:summary>{{ post.excerpt | xml_escape }}</itunes:summary>
 				<itunes:duration>{{ post.duration }}</itunes:duration>
 				<itunes:keywords>{{ post.keywords | join: ", " }}</itunes:keywords>
-				<itunes:image href="{{ site.url }}/images/itunes.png" />
+				<itunes:image href="https://s3.amazonaws.com/dshpodcast/media/cover.jpg" />
 				<itunes:explicit>{{ post.explicit }}</itunes:explicit>
-				
 		</item>
 			
 		{% endif %}
