@@ -1,7 +1,7 @@
 # Site settings
 title: World of Piggy
 email: worldofpiggy@gmail.com
-url: https://worldofpiggy.github.io
+url: http://worldofpiggy.com
 description: "Thinking human world in mathematical terms. Applied math and data science to every day problems."
 skills: "Data Scientist, Software Engineer, and Code Artist"
 meta_author: Gadaleta Francesco
@@ -19,7 +19,7 @@ podcast:
   author: Francesco Gadaleta
   copyright:  "&#x2117; &amp; &#xA9; 2016"
   keywords: [data science, big data, predictive, analytics]
-  explicit: no
+  explicit: clean
 
 # Google webmaster tools
 google_verify: 
@@ -72,7 +72,7 @@ social:
   - title: github
     url: http://github.com/worldofpiggy
   - title: linkedin 
-    url: http://www.linkedin.com/fragadaleta 
+    url: http://www.linkedin.com/in/fragadaleta 
 
 author: Francesco Gadaleta
 

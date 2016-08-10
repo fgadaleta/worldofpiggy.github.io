@@ -5,10 +5,10 @@ title: Networks and Graph Databases
 date: 2015-07-23
 keywords: [big data, graph, database, infrastructure, machine learning]
 producer: worldofpiggy.com
-explicit: no
+explicit: No
 block: not available
 duration: "22:49"
-length: 209000000
+length: 20900000
 media: https://s3.amazonaws.com/dshpodcast/media/datascience_episode12_networks.mp3
 excerpt: Have you ever thought to get a Big Data infrastructure on your desk? That’s right! On your desk.
 comments: true
@@ -16,7 +16,7 @@ comments: true
 
 
 <div style="height:10px; width:100%; clear:both;"></div>
-<img src="http://worldofpiggy.com/wp-content/uploads/2016/01/cover.jpg" />
+<img src="https://s3.amazonaws.com/dshpodcast/media/cover.jpg" />
 
 
 

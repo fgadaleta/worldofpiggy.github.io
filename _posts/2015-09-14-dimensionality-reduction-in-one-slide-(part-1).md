@@ -7,7 +7,5 @@ tags: [correlation, data-mining, dimensionality, low-variance, machine-learning,
 always tricky. Dimensionality reduction helps in analyzing high dimensional
 data, still maintaining most of the information hidden behind complexity. Here
 are some methods that you must try before further analysis (Part 1).
-[![Dimensionality reduction](http://worldofpiggy.com/wp-
-content/uploads/2015/08/image-725x1024.jpg)](http://worldofpiggy.com/wp-
-content/uploads/2015/08/image.jpg) [subscribe]
+[![Dimensionality reduction](https://s3-eu-west-1.amazonaws.com/wopcontent/uploads/2015/08/image-725x1024.jpg)](https://s3-eu-west-1.amazonaws.com/wopcontent/uploads/2015/08/image.jpg) 
 

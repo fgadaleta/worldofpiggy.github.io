@@ -9,5 +9,5 @@ always tricky. Dimensionality reduction helps in analyzing high dimensional
 data, still maintaining most of the information hidden behind complexity. Here
 are some methods that you must try before further analysis (Part 2).
 
-<img src="http://worldofpiggy.com/wp-content/uploads/2015/09/image.jpg" />
+<img src="https://s3-eu-west-1.amazonaws.com/wopcontent/uploads/2015/09/image.jpg" />
 

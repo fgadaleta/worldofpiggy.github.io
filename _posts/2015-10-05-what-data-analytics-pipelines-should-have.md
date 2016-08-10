@@ -15,7 +15,7 @@ analytic pipeline should include. Below this list, an infographic shows the
 steps of a good analytic pipeline and the amount of time/resources that should
 be spent for each one.
 
-<img src="http://worldofpiggy.com/wp-content/uploads/2015/09/Data-analytics-pipeline1-410x1024.jpg" width="100%" />
+<img src="https://s3-eu-west-1.amazonaws.com/wopcontent/uploads/2015/09/Data-analytics-pipeline1-410x1024.jpg" width="100%" />
 *Data analytics pipeline and amount of time/resources that should be spent in each step.*
 
 

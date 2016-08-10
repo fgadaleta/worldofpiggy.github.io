@@ -1,4 +1,4 @@
-Freelancer Jekyll theme
+World of Piggy Theme
 =========================
 
 Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/templates/freelancer/)
@@ -23,7 +23,7 @@ description: The description of the project
 ```
 
 ## Demo
-View this jekyll theme in action [here](https://jeromelachaud.github.io/freelancer-theme)
+View this jekyll theme in action [here](http://worldofpiggy.com)
 
 ## Screenshot
 ![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)

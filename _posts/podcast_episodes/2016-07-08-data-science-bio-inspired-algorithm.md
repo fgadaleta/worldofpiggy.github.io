@@ -5,10 +5,10 @@ title: Data Science and Bio-Inspired Algorithms
 date: 2015-07-08
 keywords: [bio inspired, data-mining, dimensionality, algorithm, machine learning,robot]
 producer: worldofpiggy.com
-explicit: no
+explicit: No
 block: not available
 duration: "14:50"
-length: 136000000
+length: 13600000
 media: https://s3.amazonaws.com/dshpodcast/media/datascience_episode14_swarm_intelligence.mp3
 excerpt: In this episode I meet Dr Eliseo Ferrante, formerly at the University of Leuven, currently researcher at the Université de Technologie de Compiègne, who studies self-organization and evolution. 
 comments: true
@@ -16,7 +16,7 @@ comments: true
 
 
 
-<img src="http://worldofpiggy.com/wp-content/uploads/2016/01/cover.jpg" />
+<img src="https://s3.amazonaws.com/dshpodcast/media/cover.jpg" />
 
 <div style="height:10px; width:100%; clear:both;"></div>
 

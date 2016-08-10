@@ -5,7 +5,7 @@ tags: [analysis, apache, bigdata, computation, computing, data, distributed, had
 comments: true
 ---
 
-![](http://worldofpiggy.com/wp-content/uploads/2015/08/665075ab-f29a-4937-9e95-f23f1316dd01image8-e1441022077395-300x209.png)
+![](https://s3-eu-west-1.amazonaws.com/wopcontent/uploads/2015/08/665075ab-f29a-4937-9e95-f23f1316dd01image8-e1441022077395-300x209.png)
 {:style="float: left; margin-right: 15px;margin-top: 20px;"}
 
 Big data not only refers to machine learning, artificial intelligence, statistics and
