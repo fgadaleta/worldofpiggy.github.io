@@ -8,14 +8,14 @@ producer: worldofpiggy.com
 explicit: no
 block: not available
 duration: "19:29"
-length: 1340000000
+length: 13400000
 media: https://s3.amazonaws.com/dshpodcast/media/datascience_predictions_2016.mp3
 excerpt: It’s time to experiment with Data Science at home. Since we are still dealing with our hosting service, consider the first episode purely experimental, even though the content might be of your interest, no matter what.
 comments: true
 ---
 
 
-<img src="http://worldofpiggy.com/wp-content/uploads/2016/01/cover.jpg" />
+<img src="https://s3.amazonaws.com/dshpodcast/media/cover.jpg" />
 
 
 It’s time to experiment with Data Science at home.
