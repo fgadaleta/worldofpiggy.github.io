@@ -5,7 +5,7 @@ title: Predictions in Data Science for 2016
 date: 2015-12-21
 keywords: [big data, practice, data science, development, programming, testing, machine learning, AI, predictions]
 producer: worldofpiggy.com
-explicit: no
+explicit: No
 block: not available
 duration: "19:29"
 length: 13400000
