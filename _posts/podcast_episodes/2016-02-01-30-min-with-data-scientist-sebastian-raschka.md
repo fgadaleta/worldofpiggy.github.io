@@ -5,7 +5,7 @@ title: 30 min with data scientist Sebastian Raschka
 date: 2016-02-15
 keywords: [AI, big data, data science, machine learning, analytics, scientist]
 producer: worldofpiggy.com
-explicit: no
+explicit: No
 block: not available
 duration: "34:23"
 length: 31500000
@@ -15,7 +15,7 @@ comments: true
 ---
 
 
-<img src="http://worldofpiggy.com/wp-content/uploads/2016/01/cover.jpg" />
+<img src="https://s3.amazonaws.com/dshpodcast/media/cover.jpg" />
 
 
 In this show I interview Sebastian Raschka, data scientist and author of Python Machine Learning.
