@@ -6,7 +6,7 @@ comments: true
 type: post
 ---
 
-<img src="http://worldofpiggy.com/wp-content/uploads/2015/09/image1.jpg" width="100%">
+<img src="https://s3-eu-west-1.amazonaws.com/wopcontent/uploads/2015/09/image1.jpg" width="100%">
 
 Many **data scientists** are familiar with the usual tools to analyse large or small
 datasets. 
