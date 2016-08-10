@@ -16,7 +16,7 @@ layout: null
 		<lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
 		<image>
 			<title>{{ site.podcast.title }}</title>
-			<link>s3.amazonaws.com/dshpodcast/media/cover.jpg</link>
+			<link>{{ site.url }}/{{ site.podcast.url }}</link>
 			<url>https://s3.amazonaws.com/dshpodcast/media/cover.jpg</url>
 			<title>{{ site.podcast.title }}</title>
 		</image>
