@@ -17,7 +17,7 @@ layout: null
 		<image>
 			<title>{{ site.podcast.title }}</title>
 			<link>{{ site.url }}/{{ site.podcast.url }}</link>
-			<url>{{ site.url }}/img/podcast_cover.png</url>
+			<url>https://s3.amazonaws.com/dshpodcast/media/cover.jpg</url>
 			<title>{{ site.podcast.title }}</title>
 		</image>
 		<itunes:subtitle>{{ site.podcast.subtitle | xml_escape }}</itunes:subtitle>
@@ -28,7 +28,7 @@ layout: null
 		<itunes:name>{{ site.podcast.author }}</itunes:name>
 		<itunes:email>{{ site.email }}</itunes:email>
 		</itunes:owner>
-		<itunes:image href="{{ site.url }}/img/podcast_cover.png" />
+		<itunes:image href="https://s3.amazonaws.com/dshpodcast/media/cover.jpg" />
 		
 		<itunes:category text="Technology">
 		<itunes:category text="Podcasting" />
