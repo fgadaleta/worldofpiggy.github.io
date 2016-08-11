@@ -2,6 +2,8 @@
 layout: page
 title: About me
 subtitle: Why would you read this stuff 
+tags: AI, deeplearning, bigdata, data scientist, science, computer, programming 
+comments: true
 ---
 
 <center>
@@ -17,18 +19,20 @@ ___
 <img src="https://worldofpiggy.github.io/img/linkedin_2014_round.jpg" />
 
 
-Here we are, Piggy and I. We share one room, a number of books, and of course problems and their solutions. We read about data, math, stats, and computers, and we make things.
+Here we are, Piggy and I. We share one room, a number of books, and of course problems and their solutions. We deal with data, math, stats, and computers, and we make things. 
 We see science in every day life. We just love it!
+
 
 # My story
 
-So, let's get serious. Or should we? 
 Feel free to take some time to get to know me.
+So, let's get serious. Or should we? 
 
-I am Francesco Gadaleta, Ph.D – Data Scientist and Machine Learning expert. I also worked as clinical data scientist at Gasthuisberg Research Hospital (Belgium). I am currently member of the Advanced Analytics Team of Johnson&Johnson.
+I am Francesco Gadaleta, Ph.D – Data Scientist and Machine Learning expert. I worked as clinical data scientist at Gasthuisberg Research Hospital (Belgium) and I am currently data scientist in the Advanced Analytics Team of Johnson&Johnson.
 
-I received my first computer back in 1988, and at the age of seven I started exploring the quite limited capabilities of the BASIC language. After that I switched to ANSI C. The passion for math and computer programming has been driving my career ever since. 
-There are three major periods that formed me: the Academic, the Pragmatic and the Domestic.
+I received my first computer back in 1988, and at the age of 7 (seven) I started exploring the quite limited capabilities of the [GW-BASIC](https://en.wikipedia.org/wiki/GW-BASIC) language. As no VGA support was provided I switched to the more powerful [ANSI C](https://en.wikipedia.org/wiki/ANSI_C), which I kept writing for the next 25 years. The passion for math and computer programming has been driving my career ever since. 
+
+There are three major periods that formed me: **the Academic**, **the Pragmatic** and **the Domestic**.
 
 ## The Academic Period
 I graduated in Computer Engineering MSc. at Politecnico di Milano (Italy) and developed an autonomous hexapod robot that could see and avoid obstacles without stereoscopic vision. Cameras at that time were pretty expensive.
@@ -45,8 +49,8 @@ As former member of the Statistical Genetics Unit at the Montefiore Institute, D
 As data scientist at the Department of Human Genetics at the University Hospital UZ Leuven, I focused on the analysis of array CGH and Next Generation Sequencing data in molecular diagnostics. I have been specifically involved in the NIPT (Non-Invasive-Prenatal-Testing) project to analyze prenatal testing data and detect chromosomal aberrations of the fetus without invasive intervention but by analyzing free floating DNA in the bloodstream of the mother.
 
 
-From a broader perspective as **Data Scientist** I have been working with large and very large datasets and custom machine learning algorithms, from design to deployment. I have been analysing Terabyte (TB) of information, in the form of deep sequencing data of thousands of individuals. Both high dimensionality and computational complexity require optimized solutions to deliver analyses in time. I acquired the right skills to improve and optimize large data systems in several domains, 
-from health care to finance, and social media, with industrial standards.
+From a broader perspective as **Data Scientist** I have been working with large and very large datasets and custom machine learning algorithms, from design to deployment. I have been analysing Terabyte (TB) of information, in the form of deep sequencing data of thousands of individuals. Both high dimensionality and computational complexity require optimized solutions to deliver analyses in time. I acquired the right skills to improve and optimize large data systems in several domains, from health care to finance, and social media, with industrial standards.
+
 Academic background and on site experience provided me of the most powerful theoretical and practical tools for data analysis, such as
 
 -  Neural Networks and Deep Learning
@@ -59,8 +63,8 @@ Academic background and on site experience provided me of the most powerful theo
 
 ## The Domestic Period 
 
-This is a never-ending period. 
-As theory goes nowhere without practice, I daily experiment and build things that work. Stuff that people compile and run on real infrastructure, with real data in order to get real results. I regularly maintain a number of computing units and experiment with cutting edge technology with **doing-not-just-reading** approach.
+This is a never-ending period, and the one I enjoy the most. 
+As theory goes nowhere without practice, I daily experiment and build things that work. Stuff that people compile and run on real infrastructure, with real data in order to get real results. I regularly maintain a number of computing units and experiment with cutting edge technology with a **doing-not-just-reading** approach.
 Hence the most important skills I have acquired across the years comprise 
 
 ### OS and Programming Languages
@@ -76,5 +80,6 @@ Hence the most important skills I have acquired across the years comprise
 - Hadoop, 
 - and designing of large information systems for the enterprise.
 
+I am also a full stack engineer, who enjoys designing and developing products from scratch, or improving them if they exist. I particularly feel attached to this period of my career that always allowed me to do stuff that matters, minimizing talks, meetings and distractions of any sort. It is quite a satisfaction to see progress in the form of a growing code repositories, new features and less issues, taking care of the little details by myself.
 
-
+Last but not least I do ultra marathons on the distances of 55 and 80 km. The passion for running forces me to spend quite some time in the forest or on the road, where I enjoy to think while running. You can read some of my running adventures on [gipsyrunner](http://www.gipsyrunner.com).
