@@ -20,5 +20,3 @@ Enjoy the presentation and get in touch if needed.
 
 Check the slides [Deeplearning nlp](//www.slideshare.net/FrancescoGadaleta/deeplearning-nlp-63164517 "Deeplearning nlp") 
 
-from my  **[slideshare account](//www.slideshare.net/FrancescoGadaleta)**
-
