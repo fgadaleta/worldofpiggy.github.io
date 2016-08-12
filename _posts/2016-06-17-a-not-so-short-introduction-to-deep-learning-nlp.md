@@ -14,7 +14,7 @@ Feel free to share!
 
 Enjoy the presentation and get in touch if needed.  
 
-Check this out
-[Deeplearning nlp](//www.slideshare.net/FrancescoGadaleta/deeplearning-nlp-63164517 "Deeplearning nlp") 
-from **[Francesco Gadaleta](//www.slideshare.net/FrancescoGadaleta)**
+Check the slides [Deeplearning nlp](//www.slideshare.net/FrancescoGadaleta/deeplearning-nlp-63164517 "Deeplearning nlp") 
+
+from my  **[slideshare account](//www.slideshare.net/FrancescoGadaleta)**
 
