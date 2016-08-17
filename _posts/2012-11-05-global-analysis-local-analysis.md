@@ -6,7 +6,8 @@ tags: [bifurcation, bistable systems, global analysis, saddle, sensitivity, dyna
 ---
 
 ![Local analysis
-around a saddle ](https://s3-eu-west-1.amazonaws.com/wopcontent/uploads/2012/11/img_6131.jpg) Local analysis around saddle
+around a saddle ](https://s3-eu-west-1.amazonaws.com/wopcontent/uploads/2012/11/img_6131.jpg) 
+Local analysis around saddle
 
 When I fell over a paper that claimed global analysis through local
 computation around saddle equilibria in bistable systems, I felt like living a
