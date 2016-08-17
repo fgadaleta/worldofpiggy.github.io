@@ -15,4 +15,4 @@ computation around saddle equilibria in bistable systems, I felt like living a
 dream (and had to kick a sandwich to realise that I was not). 
 
 Check out [this paper](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0033110
-"PlosONE Global analysis through local computation" ) by Laura Trotta and convince yourself that it is true, under the assumption of hyperbolic systems and non-null eigenvalues.
+"PlosONE Global analysis through local computation" ) and convince yourself that it is true, under the assumption of hyperbolic systems and non-null eigenvalues.
