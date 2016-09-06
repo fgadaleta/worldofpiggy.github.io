@@ -15,7 +15,7 @@ comments: true
 ---
 
 
-<img src="http://worldofpiggy.com/wp-content/uploads/2016/01/cover.jpg" />
+<img src="https://s3.amazonaws.com/dshpodcast/media/cover.jpg" />
 
 Welcome everybody to another episode of data science at home, 
 In this episode I am going to talk about data science and fraud detection and 
