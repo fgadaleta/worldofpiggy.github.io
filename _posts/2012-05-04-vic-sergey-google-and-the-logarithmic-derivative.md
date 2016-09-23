@@ -35,7 +35,5 @@ _customers_ has a relative growth rate of 40%
 But the relative growth rate for
 a company with 1 billion, such as Google, would be about 4%. 
 
-Now Vic, are you still impressed? (oo) ![http://www.rosewaterandthyme.com/2011/06/chocolate-
-truffles/](http://www.rosewaterandthyme.com/wp-content/uploads/2011/06
-/poolofchocolate-1024x682\(pp_w620_h412\).jpg)
+Now Vic, are you still impressed? (oo) 
 
