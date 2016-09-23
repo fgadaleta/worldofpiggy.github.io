@@ -27,7 +27,7 @@ terms. Let the growth of new subscribers to Google+ be, as they claim, $$
 g'(x)=+40mln$$ per month. But if we assume that the initial number of available
 users subscribing to the new service is represented by $$ g(x)$$, that the
 relative rate of growth should be computed according to the logarithmic
-derivative given by $$ frac{g'(x)}{g(x)}$$ and that $$ g(x)$$ is
+derivative given by $$ \frac{g'(x)}{g(x)}$$ and that $$ g(x)$$ is
 actually a very large number, there's absolutely nothing to be proud of. An
 increase of 40 million _customers_ for a company with, let's say, 100 million
 _customers_ has a relative growth rate of 40% 
