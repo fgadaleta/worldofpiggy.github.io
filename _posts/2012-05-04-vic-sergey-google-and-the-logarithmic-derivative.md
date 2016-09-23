@@ -8,8 +8,8 @@ tags: [google, logarithmic, relative-growth-rate, sergey-brin, vic-gundotra]
 Back in 2011, Vic Gundotra and Sergey Brin appeared at the Web 2.0 Summit and
 talked about Google, more specifically Google+. 
 You can view the video of that
-interview on Youtube or below. [youtube=http://www.youtube.com/watch?v=w0XS-
-9obKPM] At the time, Google+ was—and still is at the time of writing—one of
+interview on [Youtube](http://www.youtube.com/watch?v=w0XS-
+9obKPM) or below  At the time, Google+ was—and still is at the time of writing—one of
 the most innovative social networks on earth and the first social network
 platform without users (oo). It’s even kind of weird to call it social. 
 
