@@ -48,12 +48,13 @@ Linear or log linear algorithms should be considered. This usually makes things 
 cannot be applied. But at least the problem can be approached.
 
 eg.
-1. P: The complexity class of decision problems that can be solved on a deterministic Turing machine in polynomial time.
-2. NP: The complexity class of decision problems that can be solved on a non-deterministic Turing machine in polynomial time.
-3. ZPP: The complexity class of decision problems that can be solved with zero error on a probabilistic Turing machine in polynomial time.
-4. RP: The complexity class of decision problems that can be solved with 1-sided error on a probabilistic Turing machine in polynomial time.
-5. BPP: The complexity class of decision problems that can be solved with 2-sided error on a probabilistic Turing machine in polynomial time.
-6. BQP: The complexity class of decision problems that can be solved with 2-sided error on a quantum Turing machine in polynomial time.
+
+1. P The complexity class of decision problems that can be solved on a deterministic Turing machine in polynomial time.
+2. NP The complexity class of decision problems that can be solved on a non-deterministic Turing machine in polynomial time.
+3. ZPP The complexity class of decision problems that can be solved with zero error on a probabilistic Turing machine in polynomial time.
+4. RP The complexity class of decision problems that can be solved with 1-sided error on a probabilistic Turing machine in polynomial time.
+5. BPP The complexity class of decision problems that can be solved with 2-sided error on a probabilistic Turing machine in polynomial time.
+6. BQP The complexity class of decision problems that can be solved with 2-sided error on a quantum Turing machine in polynomial time.
 
 
 ## Coding 
