@@ -12,5 +12,6 @@ a certain number of dimensions. All the rest, classification, semantic analysis,
 on.
 
 Here is a slide that explains this with a bit of algebra and some user friendly text.
+
 Feel free to 
 [download](https://s3-eu-west-1.amazonaws.com/wopcontent/uploads/word-embedding-example.pdf) and don't forget to share.
