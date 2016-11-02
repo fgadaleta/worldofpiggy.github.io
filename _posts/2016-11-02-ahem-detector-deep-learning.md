@@ -9,7 +9,7 @@ type: post
 Do you know why you can't hear the ugly *ahem* sounds on the podcast [Data Science at Home](http://worldofpiggy.com/podcast)?
 
 Because we remove them. 
-Actually not us, but a neural network.
+Actually not us. A neural network does.
 
 Let me introduce the *ahem detector*, a deep convolutional neural network that is trained on transformed audio 
 signals to recognize "ahem" sounds.
@@ -19,11 +19,10 @@ The network has been trained to detect such signals on the episodes of Data Scie
 
 ## Project description
 
-Slides and some technical details provided [here](https://docs.google.com/presentation/d/1QXQEOiAMj0uF2_Gafr2bn-kMniUJAIM1PLTFm1mUops/edit?usp=sharing).
+Slides and technical details are provided provided [here](https://docs.google.com/presentation/d/1QXQEOiAMj0uF2_Gafr2bn-kMniUJAIM1PLTFm1mUops/edit?usp=sharing).
 
----
+Before getting to the details, a few concepts should be clarified.
 
-## Readme first 
 Two sets of audio files are required, very similarly to a cohort study:
 
 - a negative sample with clean voice/sound and 
