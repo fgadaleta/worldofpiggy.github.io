@@ -6,16 +6,24 @@ comments: true
 type: post
 ---
 
-Do you know why you can't hear the ugly *ahem* sounds on the podcast [Data Science at Home](http://worldofpiggy.com/podcast)? 
-Because we remove them. Actually not us, but a neural network.
+Do you know why you can't hear the ugly *ahem* sounds on the podcast [Data Science at Home](http://worldofpiggy.com/podcast)?
+
+Because we remove them. 
+Actually not us, but a neural network.
 
 Let me introduce the *ahem detector*, a deep convolutional neural network that is trained on transformed audio 
 signals to recognize "ahem" sounds.
 The network has been trained to detect such signals on the episodes of Data Science at Home, the podcast about data science at 
 [worldofpiggy.com/podcast](http://worldofpiggy.com/podcast) 
 
+
+## Project description
+
 Slides and some technical details provided [here](https://docs.google.com/presentation/d/1QXQEOiAMj0uF2_Gafr2bn-kMniUJAIM1PLTFm1mUops/edit?usp=sharing).
 
+---
+
+## Readme first 
 Two sets of audio files are required, very similarly to a cohort study:
 
 - a negative sample with clean voice/sound and 
@@ -47,5 +55,7 @@ This can be done with
     
 Then follow the script in the ipython notebook that is commented enough to proceed without particular issues.
 The whole project is on [github](https://github.com/worldofpiggy/deeplearning-ahem-detector)
+
+
 
 Enjoy!
