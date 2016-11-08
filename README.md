@@ -26,7 +26,7 @@ description: The description of the project
 View this jekyll theme in action [here](http://worldofpiggy.com)
 
 ## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
+![screenshot](https://github.com/worldofpiggy/worldofpiggy.github.io/raw/master/screenshot.PNG)
 
 =========
 For more details, read the [documentation](http://jekyllrb.com/)
