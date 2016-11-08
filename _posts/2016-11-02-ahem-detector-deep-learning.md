@@ -6,6 +6,9 @@ comments: true
 type: post
 ---
 
+![alt text](https://github.com/worldofpiggy/deeplearning-ahem-detector/raw/master/ahem_explained.PNG "Ahem neural detector explained")
+
+
 Do you know why you can't hear the ugly *ahem* sounds on the podcast [Data Science at Home](http://worldofpiggy.com/podcast)?
 
 Because we remove them. 
