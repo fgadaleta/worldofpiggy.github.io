@@ -16,13 +16,9 @@ comments: true
 </center>
 ___
 
+{:.center}
 <img src="https://worldofpiggy.github.io/img/profile_small.jpg" width="350px"/> 
 
-{:.center}
-![cardinal](img/profile_small.jpg)  
-Here I am 
-
-Hi!
 
 .center {
   text-align: center;
