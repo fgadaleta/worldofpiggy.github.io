@@ -16,7 +16,7 @@ comments: true
 </center>
 ___
 
-<img src="https://worldofpiggy.github.io/img/profile_small.jpg" />
+<img src="https://worldofpiggy.github.io/img/profile_small.jpg" width="350px"/>
 
 
 Here I am, Francesco (and his invisible mate Piggy). I come from southern Italy and currently live somewhere in rainy Belgium, in a room full of books, interesting problems and (often) their solutions. I deal with data, math, stats, and computers, and I make things. 
