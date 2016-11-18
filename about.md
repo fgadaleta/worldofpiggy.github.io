@@ -17,10 +17,10 @@ comments: true
 ___
 
 <center> <img src="https://worldofpiggy.github.io/img/profile_small.jpg" width="350px"/> </center>
+<br />
 
 
-
-Here I am, Francesco (and his invisible mate Piggy). I come from southern Italy and currently live somewhere in rainy Belgium, in a room full of books, interesting problems and (often) their solutions. I deal with data, math, stats, and computers, and I make things. 
+Here I am, Francesco (and his invisible mate Piggy). I currently live somewhere in rainy Belgium, in a room full of books, interesting problems and (often) their solutions. I deal with data, math, stats, and computers, and I make things. 
 Technologies I am excited about include Artificial Intelligence, Deep Learning, Natural Language Processing, Computer Programming and Machine Learning.
 
 I see science in every day life. I just love it!
