@@ -16,7 +16,9 @@ comments: true
 </center>
 ___
 
-<center> <img src="https://worldofpiggy.github.io/img/profile_small.jpg" width="350px"/> </center>
+
+    
+<center> <img src="https://worldofpiggy.github.io/img/profile_small.jpg" width="350px" style="border-radius: 50%; background-position: 50%; background-repeat: no-repeat;"/> </center>
 <br />
 
 

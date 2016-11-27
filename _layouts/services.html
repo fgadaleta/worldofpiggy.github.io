@@ -5,14 +5,8 @@
     {% include nav.html %}
 	  <div style="height:42px; width:100%; clear:both;"></div> 
     {% include portfolio_grid.html %}
+{% include subscribe.html %}
 
-    {% if site.contact == "static" %}
-    {% include contact_static.html %}
-    {% elsif site.contact == "disqus" %}
-    {% include contact_disqus.html %}
-    {% else %}
-    {% include contact.html %}
-    {% endif %}
 
     {% include footer.html %}
     {% include modals.html %}
