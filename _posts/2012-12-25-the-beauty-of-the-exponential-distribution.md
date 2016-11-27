@@ -5,7 +5,7 @@ comments: true
 tags: [breaking, distribution, exponential, lambda, quality, risk, rupture, statistics]
 ---
 
-## Problem description
+### Problem description
 
 Things break. 
 
