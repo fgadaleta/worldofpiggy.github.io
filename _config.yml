@@ -21,6 +21,12 @@ podcast:
   keywords: [data science, big data, predictive, analytics]
   explicit: clean
 
+
+webserver_headers:
+  "Access-Control-Allow-Origin": "*"
+  "Server": "CustomServerName"
+  
+  
 # Google webmaster tools
 google_verify: 
 
