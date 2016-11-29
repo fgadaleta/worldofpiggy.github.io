@@ -50,7 +50,7 @@ layout: null
 				<itunes:duration>{{ post.duration }}</itunes:duration>
 				<itunes:keywords>{{ post.keywords | join: ", " }}</itunes:keywords>
 				<itunes:image href="https://s3.amazonaws.com/dshpodcast/media/cover.jpg" />
-				<itunes:explicit>{{ post.explicit }}</itunes:explicit>
+				<itunes:explicit>{{ site.podcast.explicit }}</itunes:explicit>
 		</item>
 			
 		{% endif %}
