@@ -9,9 +9,10 @@ tags: [catastrophe, chaos-theory, economy, prediction-method, predictions, scien
 <img src='/img/img_posts/ordered_chaos.png' />
 </center>
 
+
 > Is the market really predictable? How do stock prices increase? What is their dynamics? 
 
-The magics and the reality of predictions applied to markets and the stock exchange.
+How many have asked such questions already? How many answered. How many do believe in those answers? Here is what I think about the magics and the reality of predictions applied to markets and the stock exchange.
 
 ---
 
