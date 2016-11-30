@@ -28,10 +28,10 @@ its minimum. No uncertainty. No alternative configurations.
 The concept of _entropy_ is somehow linked to the **amount of uncertainty** of a system and
 to the amount of _information_ that is present in a random signal. Since we're
 not doing physics here, let's go back to planet earth and do some information
-theory. The entropy at a source that emits a signal $$x$$ with probability $
+theory. The entropy at a source that emits a signal $$x$$ with probability $$
 p(x)$$ is given by $$ H(X) = p(x) log( \frac{1} {p(x)} ) $$ 
 
-If the message can be represented by an alphabet of $M $ symbols, $$ X = {x_i}, i = 1 \dots M $$ and
+If the message can be represented by an alphabet of $$M $$ symbols, $$ X = {x_i}, i = 1 \dots M $$ and
 the source emits $$ x_n$$ symbols with $$ 0 &lt; n &lt; \infty $$, the entropy at
 the source is $$ H(X) = \sum_{i}^{M} p_i log(\frac{1}{p_i}) $$. Usually, the
 term $$ log \frac{1}{p_i}$$ is referred to as $ I(X) $$ and called
@@ -44,13 +44,13 @@ quantity measures the mutual dependence between $$ X$$ and $$ Y$$. It is given
 $$ I(X;Y) = H(X) - H(X|Y)= \sum_{y}\sum_{x}p(x,y)
 log(\frac{p(x,y)}{p(x)p(y)})$$, which basically translates into "how much
 information from knowing $$Y$$, reduces the uncertainty about $$X$$ ?". In fact,
-if $$X $$ and $$Y $$ are independent, then $p(x,y) = p(x)p(y) $$ and $I(X;Y) = 0 $.
+if $$X $$ and $$Y $$ are independent, then $$ p(x,y) = p(x)p(y) $$ and $I(X;Y) = 0 $$.
 This too makes perfect sense to me. There are some properties that make the
 link between mutual information and entropy even stronger. I will list a few:
-1\. $H(X) = I(X;X)$, means that the mutual information between $X $$ and itself
+1\. $$H(X) = I(X;X)$$, means that the mutual information between $$X $$ and itself
 is its entropy. Once $X$$ is known, the amount of uncertainty about $X$$ itself
-is indeed its entropy. 2\. with $H(X|X) = 0 $, one means that the amount of
-uncertainty about $X $, that remains after $X$$ is known is $0 $. 3\. More
+is indeed its entropy. 2\. with $$H(X|X) = 0 $$, one means that the amount of
+uncertainty about $$X $$, that remains after $$X$$ is known is $0 $. 3\. More
 generally, $I(X|X) \ge I(X;Y)$, which means that a variable contains at least
 as much information as the one provided by any other variable. 4\. Finally, $
 H(X) \ge H(X|Y)$, which means that uncertainty decreases as other variables
