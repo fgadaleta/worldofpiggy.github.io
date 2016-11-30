@@ -14,7 +14,7 @@ ignore for the next two lines what _entropy_ should be. Think about it as
 something that measures something else. 
 
 Now, imagine a bunch of molecules in a
-glass at time $$ t_0$, temperature $$ T_0$$ and pressure $$ P_0$. The entropy of
+glass at time $$ t_0$$, temperature $$ T_0$$ and pressure $$ P_0$. The entropy of
 that system is $$H_0$$. As the temperature decreases, the molecules slow down
 and tend to stabilise to a fixed position. As time goes, the entropy of the
 system decreases and the information, as the _"certainty"_ of the exact
