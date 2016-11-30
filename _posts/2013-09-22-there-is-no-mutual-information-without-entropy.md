@@ -70,7 +70,7 @@ explicative interpretations of mutual information is the one that recalls the
 "Kullback-Leibler divergence" ) distance between distributions. It represents
 mutual information as 
 
-$$ I(X;Y) = $$ $$ D_{KL} (p(x,y) || p(x) p(y))$$, which I
+$$ I(X;Y) = D_{KL} (p(x,y) || p(x) p(y))$$, which I
 find elegant and amazing at the same time. Let me just add this
 reconstruction: 
 
@@ -80,7 +80,7 @@ $$ p(x,y) = p(x|y) p(y) $$
 
 $$ I(X;Y) = \sum_{y} p(y) sum_{x} p(x|y) log \frac{p(x|y)p(y)}{p(x)p(y)} =
 \sum_{y} p(y) D_{KL}(p(x|y) || p(x) ) = E_y[D_{KL}(p(x|y) || p(x)] $$ which
-means that the more $$p(x|y)$$ differs from $$p(x)$$, the higher the amount of
+means that the more $$p(x|y)$$ differs from $$ p(x) $$, the higher the amount of
 "information gain". 
 
 Cool uh?
