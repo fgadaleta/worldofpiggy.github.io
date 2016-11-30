@@ -63,13 +63,12 @@ uncertainty about $$X $$, that remains after $$X$$ is known is $$0 $$.
 3\. More
 generally, $$I(X|X) \ge I(X;Y)$$, which means that a variable contains at least
 as much information as the one provided by any other variable.
-4\. 
 
+4\. 
 Finally, $$ H(X) \ge H(X|Y)$$, which means that uncertainty decreases as other variables
 are known (namely, as the system goes towards a fixed certain state). 
 
-Since
-I've been heavily invested in statistics for some time now, one of the most
+Since I've been heavily invested in statistics for some time now, one of the most
 explicative interpretations of mutual information is the one that recalls the
 [Kullback-Leibler](http://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence
 "Kullback-Leibler divergence" ) distance between distributions. 
@@ -80,9 +79,7 @@ $$ I(X;Y) = D_{KL} (p(x,y) || p(x) p(y)) $$ that I find elegant and amazing at t
 
 Let me just add this reconstruction: 
 
-$$ p(x|y) = \frac{p(x,y)} {p(y)} $$ with
-
-$$ p(x,y) = p(x|y) p(y) $$ 
+$$ p(x|y) = \frac{p(x,y)} {p(y)}, p(x,y) = p(x|y) p(y) $$ 
 
 $$ I(X;Y) = \sum_{y} p(y) sum_{x} p(x|y) log \frac{p(x|y)p(y)}{p(x)p(y)} = \sum_{y} p(y) D_{KL}(p(x|y) || p(x) ) = E_y[D_{KL}(p(x|y) || p(x)] $$ which
 means that the more $$p(x|y)$$ differs from $$ p(x) $$, the higher the amount of
