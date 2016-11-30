@@ -45,19 +45,19 @@ quantity measures the mutual dependence between $$ X$$ and $$ Y$$. It is given
 $$ I(X;Y) = H(X) - H(X|Y)= \sum_{y}\sum_{x}p(x,y)
 log(\frac{p(x,y)}{p(x)p(y)})$$, which basically translates into "how much
 information from knowing $$Y$$, reduces the uncertainty about $$X$$ ?". In fact,
-if $$X $$ and $$Y $$ are independent, then $$ p(x,y) = p(x)p(y) $$ and $I(X;Y) = 0 $$.
+if $$X $$ and $$Y $$ are independent, then $$ p(x,y) = p(x)p(y) $$ and $$I(X;Y) = 0 $$.
 This too makes perfect sense to me. There are some properties that make the
 link between mutual information and entropy even stronger. I will list a few:
 
 1\. $$H(X) = I(X;X)$$, means that the mutual information between $$X $$ and itself
-is its entropy. Once $X$$ is known, the amount of uncertainty about $X$$ itself
+is its entropy. Once $$X$$ is known, the amount of uncertainty about $$X$$ itself
 is indeed its entropy. 
 
 2\. with $$H(X|X) = 0 $$, one means that the amount of
 uncertainty about $$X $$, that remains after $$X$$ is known is $$0 $$. 
 
 3\. More
-generally, $I(X|X) \ge I(X;Y)$, which means that a variable contains at least
+generally, $$I(X|X) \ge I(X;Y)$$, which means that a variable contains at least
 as much information as the one provided by any other variable.
 4\. 
 
