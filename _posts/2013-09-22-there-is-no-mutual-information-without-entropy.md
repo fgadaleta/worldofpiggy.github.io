@@ -75,7 +75,7 @@ explicative interpretations of mutual information is the one that recalls the
 
 It represents mutual information as 
 
-$$ I(X;Y) = D_{KL} (p(x,y) || p(x) p(y)) $$ that I find elegant and amazing at the same time. 
+$$ I(X,Y) = D_{KL} (p(x,y) || p(x) p(y)) $$ that I find elegant and amazing at the same time. 
 
 Let me just add this reconstruction: 
 
