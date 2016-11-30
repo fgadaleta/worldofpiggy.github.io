@@ -70,11 +70,11 @@ explicative interpretations of mutual information is the one that recalls the
 "Kullback-Leibler divergence" ) distance between distributions. It represents
 mutual information as 
 
-$$ I(X;Y) = D_{KL} (p(x,y) || p(x) p(y))$$, which I
-find elegant and amazing at the same time. Let me just add this
-reconstruction: 
+$$ I(X;Y) = D_{KL} (p(x,y) || p(x) p(y)) $$, which I
+find elegant and amazing at the same time. 
+Let me just add this reconstruction: 
 
-$$ p(x | y) = \frac{p(x,y)} {p(y)} $$  with
+$$ p(x | y) = \frac{p(x,y)}{p(y)} $$ with
 
 $$ p(x,y) = p(x|y) p(y) $$ 
 
