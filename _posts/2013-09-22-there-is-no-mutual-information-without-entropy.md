@@ -36,11 +36,15 @@ If the message can be represented by an alphabet of $$ M $$ symbols, $$ X = {x
 the source emits $$ x_n$$ symbols with $$ 0 \lt; n \lt; \infty $$, the entropy at
 the source is $$ H(X) = \sum_{i}^{M} p_i log(\frac{1}{p_i}) $$. Usually, the
 term $$ log \frac{1}{p_i} $$ is referred to as $$ I(X) $$ and called
-**information**. A quite simple explanation of this is that a very frequent
+**information**. 
+
+A quite simple explanation of this is that a very frequent
 symbol (for which $$ p_i $$ would be high) contains little information; a
 rare symbol, on the other hand, contains a high amount of information about
 the overall message. It makes perfect sense to me. Or does it? With this said,
-let's jump to the mutual information between two variables $$ I(X;Y) $$. This
+let's jump to the mutual information between two variables $$ I(X;Y) $$. 
+
+This
 quantity measures the mutual dependence between $$ X$$ and $$ Y$$. It is given by
 $$ I(X;Y) = H(X) - H(X|Y)= \sum_{y}\sum_{x}p(x,y) log(\frac{p(x,y)}{p(x)p(y)}) $$, which basically translates into "how much
 information from knowing $$Y$$, reduces the uncertainty about $$X$$ ?". In fact,
@@ -67,14 +71,15 @@ Since
 I've been heavily invested in statistics for some time now, one of the most
 explicative interpretations of mutual information is the one that recalls the
 [Kullback-Leibler](http://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence
-"Kullback-Leibler divergence" ) distance between distributions. It represents
-mutual information as 
+"Kullback-Leibler divergence" ) distance between distributions. 
+
+It represents mutual information as 
 
 $$ I(X;Y) = D_{KL} (p(x,y) || p(x) p(y)) $$, which I
 find elegant and amazing at the same time. 
 Let me just add this reconstruction: 
 
-$$ p(x | y) = \frac{p(x,y)}{p(y)} $$ with
+$$ p(x|y) = \frac{p(x,y)}{p(y)} $$ with
 
 $$ p(x,y) = p(x|y) p(y) $$ 
 
