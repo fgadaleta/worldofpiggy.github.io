@@ -14,8 +14,8 @@ ignore for the next two lines what _entropy_ should be. Think about it as
 something that measures something else. 
 
 Now, imagine a bunch of molecules in a
-glass at time $$ t_0$$, temperature $$ T_0$$ and pressure $$ P_0$$. The entropy of
-that system is $$H_0 $$. 
+glass at time $$ t_0 $$, temperature $$ T_0 $$ and pressure $$ P_0 $$.
+The entropy of that system is $$H_0 $$. 
 As the temperature decreases, the molecules slow down
 and tend to stabilise to a fixed position. As time goes, the entropy of the
 system decreases and the information, as the _"certainty"_ of the exact
@@ -35,7 +35,7 @@ p(x)$$ is given by $$ H(X) = p(x) log( \frac{1} {p(x)} ) $$
 If the message can be represented by an alphabet of $$M $$ symbols, $$ X = {x_i}, i = 1 \dots M $$ and
 the source emits $$ x_n$$ symbols with $$ 0 &lt; n &lt; \infty $$, the entropy at
 the source is $$ H(X) = \sum_{i}^{M} p_i log(\frac{1}{p_i}) $$. Usually, the
-term $$ log \frac{1}{p_i}$$ is referred to as $ I(X) $$ and called
+term $$ log \frac{1}{p_i} $$ is referred to as $$ I(X) $$ and called
 **information**. A quite simple explanation of this is that a very frequent
 symbol (for which $latex p_i $$ would be high) contains little information; a
 rare symbol, on the other hand, contains a high amount of information about
@@ -51,10 +51,10 @@ link between mutual information and entropy even stronger. I will list a few:
 1\. $$H(X) = I(X;X)$$, means that the mutual information between $$X $$ and itself
 is its entropy. Once $X$$ is known, the amount of uncertainty about $X$$ itself
 is indeed its entropy. 2\. with $$H(X|X) = 0 $$, one means that the amount of
-uncertainty about $$X $$, that remains after $$X$$ is known is $0 $. 3\. More
+uncertainty about $$X $$, that remains after $$X$$ is known is $$0 $$. 3\. More
 generally, $I(X|X) \ge I(X;Y)$, which means that a variable contains at least
-as much information as the one provided by any other variable. 4\. Finally, $
-H(X) \ge H(X|Y)$, which means that uncertainty decreases as other variables
+as much information as the one provided by any other variable. 4\. Finally, $$
+H(X) \ge H(X|Y)$$, which means that uncertainty decreases as other variables
 are known (namely, as the system goes towards a fixed certain state). Since
 I've been heavily invested in statistics for some time now, one of the most
 explicative interpretations of mutual information is the one that recalls the
