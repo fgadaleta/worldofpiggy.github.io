@@ -37,7 +37,7 @@ the source emits $$ x_n$$ symbols with $$ 0 &lt; n &lt; \infty $$, the entropy 
 the source is $$ H(X) = \sum_{i}^{M} p_i log(\frac{1}{p_i}) $$. Usually, the
 term $$ log \frac{1}{p_i} $$ is referred to as $$ I(X) $$ and called
 **information**. A quite simple explanation of this is that a very frequent
-symbol (for which $latex p_i $$ would be high) contains little information; a
+symbol (for which $$ p_i $$ would be high) contains little information; a
 rare symbol, on the other hand, contains a high amount of information about
 the overall message. It makes perfect sense to me. Or does it? With this said,
 let's jump to the mutual information between two variables $$ I(X;Y) $$. This
