@@ -32,7 +32,7 @@ not doing physics here, let's go back to planet earth and do some information
 theory. The entropy at a source that emits a signal $$x$$ with probability $$
 p(x)$$ is given by $$ H(X) = p(x) log( \frac{1} {p(x)} ) $$ 
 
-If the message can be represented by an alphabet of $$M $$ symbols, $$ X = {x_i}, i = 1 \dots M $$ and
+If the message can be represented by an alphabet of $$ M $$ symbols, $$ X = {x_i}, i = 1 \dots M $$ and
 the source emits $$ x_n$$ symbols with $$ 0 &lt; n &lt; \infty $$, the entropy at
 the source is $$ H(X) = \sum_{i}^{M} p_i log(\frac{1}{p_i}) $$. Usually, the
 term $$ log \frac{1}{p_i} $$ is referred to as $$ I(X) $$ and called
@@ -42,8 +42,7 @@ rare symbol, on the other hand, contains a high amount of information about
 the overall message. It makes perfect sense to me. Or does it? With this said,
 let's jump to the mutual information between two variables $$ I(X;Y) $$. This
 quantity measures the mutual dependence between $$ X$$ and $$ Y$$. It is given by
-$$ I(X;Y) = H(X) - H(X|Y)= \sum_{y}\sum_{x}p(x,y)
-log(\frac{p(x,y)}{p(x)p(y)})$$, which basically translates into "how much
+$$ I(X;Y) = H(X) - H(X|Y)= \sum_{y}\sum_{x}p(x,y) log(\frac{p(x,y)}{p(x)p(y)}) $$, which basically translates into "how much
 information from knowing $$Y$$, reduces the uncertainty about $$X$$ ?". In fact,
 if $$X $$ and $$Y $$ are independent, then $$ p(x,y) = p(x)p(y) $$ and $$I(X;Y) = 0 $$.
 This too makes perfect sense to me. There are some properties that make the
