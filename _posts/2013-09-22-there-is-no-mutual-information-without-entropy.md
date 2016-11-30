@@ -74,7 +74,9 @@ $$ I(X;Y) = $$ $$ D_{KL} (p(x,y) || p(x) p(y))$$, which I
 find elegant and amazing at the same time. Let me just add this
 reconstruction: 
 
-$$ p(x | y) = \frac{p(x,y)} {p(y)}$$ $$ p(x,y) = p(x|y) p(y) $$ 
+$$ p(x | y) = \frac{p(x,y)} {p(y)} $$  with
+
+$$ p(x,y) = p(x|y) p(y) $$ 
 
 $$ I(X;Y) = \sum_{y} p(y) sum_{x} p(x|y) log \frac{p(x|y)p(y)}{p(x)p(y)} =
 \sum_{y} p(y) D_{KL}(p(x|y) || p(x) ) = E_y[D_{KL}(p(x|y) || p(x)] $$ which
