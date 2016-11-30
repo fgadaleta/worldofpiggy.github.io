@@ -48,13 +48,20 @@ information from knowing $$Y$$, reduces the uncertainty about $$X$$ ?". In fact
 if $$X $$ and $$Y $$ are independent, then $$ p(x,y) = p(x)p(y) $$ and $I(X;Y) = 0 $$.
 This too makes perfect sense to me. There are some properties that make the
 link between mutual information and entropy even stronger. I will list a few:
+
 1\. $$H(X) = I(X;X)$$, means that the mutual information between $$X $$ and itself
 is its entropy. Once $X$$ is known, the amount of uncertainty about $X$$ itself
-is indeed its entropy. 2\. with $$H(X|X) = 0 $$, one means that the amount of
-uncertainty about $$X $$, that remains after $$X$$ is known is $$0 $$. 3\. More
+is indeed its entropy. 
+
+2\. with $$H(X|X) = 0 $$, one means that the amount of
+uncertainty about $$X $$, that remains after $$X$$ is known is $$0 $$. 
+
+3\. More
 generally, $I(X|X) \ge I(X;Y)$, which means that a variable contains at least
-as much information as the one provided by any other variable. 4\. Finally, $$
-H(X) \ge H(X|Y)$$, which means that uncertainty decreases as other variables
+as much information as the one provided by any other variable.
+4\. 
+
+Finally, $$ H(X) \ge H(X|Y)$$, which means that uncertainty decreases as other variables
 are known (namely, as the system goes towards a fixed certain state). Since
 I've been heavily invested in statistics for some time now, one of the most
 explicative interpretations of mutual information is the one that recalls the
@@ -63,9 +70,11 @@ Leibler](http://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence
 "Kullback-Leibler divergence" ) distance between distributions. It represents
 mutual information as $$ I(X;Y) = $$ $$ D_{KL} (p(x,y) || p(x) p(y))$$, which I
 find elegant and amazing at the same time. Let me just add this
-reconstruction: $$ p(x | y) = \frac{p(x,y)} {p(y)}$$ $$ p(x,y) = p(x|y) p(y) $$ $
-I(X;Y) = \sum_{y} p(y) sum_{x} p(x|y) log \frac{p(x|y)p(y)}{p(x)p(y)} =
+reconstruction: $$ p(x | y) = \frac{p(x,y)} {p(y)}$$ $$ p(x,y) = p(x|y) p(y) $$ 
+$$ I(X;Y) = \sum_{y} p(y) sum_{x} p(x|y) log \frac{p(x|y)p(y)}{p(x)p(y)} =
 \sum_{y} p(y) D_{KL}(p(x|y) || p(x) ) = E_y[D_{KL}(p(x|y) || p(x)] $$ which
-means that the more $$p(x|y)$$ differs from $p(x)$, the higher the amount of
-"information gain". Cool uh?
+means that the more $$p(x|y)$$ differs from $$p(x)$$, the higher the amount of
+"information gain". 
+
+Cool uh?
 
