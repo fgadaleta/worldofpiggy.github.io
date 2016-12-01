@@ -90,3 +90,8 @@ Hence the most important skills I have acquired across the years comprise
 I am also a full stack engineer, who enjoys designing and developing products from scratch, or improving them if they exist. I particularly feel attached to this period of my life as it always allowed me to do stuff that matters, minimizing talks, meetings and distractions of any sort. It is quite a satisfaction to see progress in the form of a growing code repositories, new features and less issues, taking care of the little details by myself.
 
 Last but not least I do ultra marathons on the distances of 55 and 80 km. The passion for running forces me to spend quite some time in the forest or on the road, where I enjoy to think while running. You can read some of my running adventures on [gipsyrunner](http://www.gipsyrunner.com).
+
+
+### Identify me
+- This site has been proved by [keybase.io](https://keybase.io/fragadaleta)
+- I have a public key with fingerprint 3CB8 C721 FE99 BC98 38DC  F463 BFDC E4EC CE3B 7327
