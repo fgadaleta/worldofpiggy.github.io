@@ -53,8 +53,7 @@ who still care about ethics.
 
 What Bouchaud confirmed in his speech is that the 
 
-> erratic dynamics of markets are mostly endogenous and not exogenous, as one
-might expect. 
+> erratic dynamics of markets are mostly endogenous and not exogenous, as one might expect. 
 
 This literally translates to the fact that no big news should be needed to change stock prices and
 determine huge profits. 
@@ -115,9 +114,7 @@ unforeseen price change. Since the market is not well adapted to this new
 state, extremely large price changes can appear very frequently. 
 
 
-> ...when prices are converging to a stable value - noise can lead to
-instability. As long as traders are searching for patterns in the price dynamics, they
-assume that the market will respond to available information.
+> ...when prices are converging to a stable value - noise can lead to instability. As long as traders are searching for patterns in the price dynamics, they assume that the market will respond to available information.
 
 
 Another key observation about the stylised agent-based model, is that large returns are
