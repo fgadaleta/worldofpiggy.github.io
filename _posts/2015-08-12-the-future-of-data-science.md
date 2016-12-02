@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The future of data science
+title: The future of Map Reduce
 tags: [analytics, bigdata, curation, database, dbms, hadoop, mapreduce, nlp]
 comments: true
 ---
@@ -61,34 +61,6 @@ Finally, data scientists are gradually moving from the _row-based_ approach to t
 Hence, DBMS systems that optimize performance in the latter architecture will make the difference in
 the very near future.
 
-
-#### If Hadoop and MapReduce do not seem to be in the future of data science, what then? 
-
-Several rumors are suggesting that data science will be
-completely automatic in 20 years from now and that this phenomenon will
-literally kill the job of current data scientists. 
-
-I personally do not agree on the statement. People claim things like that for every new
-product/idea/tool since many years already. Automatizing processes does not
-really kill anything. I see it more as _professional evolution_, that makes
-some professions obsolete (while completely automatic) but creates new ones
-that we could not think of before. 
-
-If designing a regression or a clustering algorithm, as well as building a neural network can indeed be automatized
-relatively easily, without human intervention, **data curation** will stay in
-the hands of human beings. Or well, in their brain. 
-
-**Curation is the future of data science.** Considered as black art, it can be very expensive and time
-consuming but most of the times very effective. Curation might be automatized
-somehow, but eventually it will not scale to thousands of datasets. There is
-no automatic tool that can understand the data completely and curate it.
-
-Manual intervention, in the form of expert knowledge introduced during the
-process will always be needed. As an example, many companies are taking
-advantage of natural language processing (NLP) to make textual data,
-structured. While NLP is based on pretty mature theories and implementations,
-people are using application-specific text parsers, in which a lot of expert
-knowledge has been packed. 
 
 
 
