@@ -43,7 +43,11 @@ Anything wrong with that? Not really.
 
 No database system would like a file system that cannot
 guarantee that the data is not on the current node but somewhere else in the
-network. Every DBMS wants ACID. Impala realised this simple fact, and
+network. 
+
+> Every DBMS wants ACID. 
+
+Impala realised this simple fact, and
 developed a Massively Parallel Processing query engine that runs on Hadoop but
 does not use the MapReduce paradigm, which is very expensive.
 
