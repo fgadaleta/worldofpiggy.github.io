@@ -12,10 +12,12 @@ knowledge of systems engineering, load balancing, high performance computing
 etc. 
 This "new" programming paradigm goes under the name of **MapReduce**,
 which consists of 
-- 1) breaking up the dataset in pieces that can be handled
-independently 
-- 2) mapping a function to each one of them and 
-- 3) reducing the results into a unique record.  
+
+1) breaking up the dataset in pieces that can be handled independently 
+
+2) mapping a function to each one of them and 
+
+3) reducing the results into a unique record
 
 That is exactly what Google invented about ten years ago, and what Yahoo implemented and 
 then released as opensource project for the community. 
