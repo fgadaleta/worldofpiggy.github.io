@@ -16,7 +16,7 @@ How many have asked such questions already? How many answered. How many do belie
 
 ---
 
-I am not saying something terribly new when I speak about predictions as a
+I am not saying anything terribly new when I speak about predictions as a
 cool task but also an extremely difficult one. Scientists want to predict
 everything, from the weather to the outcome of political elections, from
 disease prognosis to economy. There is a very large list of predictions that
