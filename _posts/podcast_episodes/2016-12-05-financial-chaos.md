@@ -2,7 +2,7 @@
 layout: episode
 category: podcast
 title: Statistical analysis of phenomena that smell like chaos  
-date: 2016-09-27
+date: 2016-12-05
 keywords: [finance, chaos theory, data science, predictions, analytics, machine learning]
 producer: worldofpiggy.com
 explicit: no
