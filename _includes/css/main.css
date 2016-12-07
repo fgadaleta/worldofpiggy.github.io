@@ -338,6 +338,10 @@ form .row:first-child .floating-label-form-group {
     border-top: 1px solid #eee;
 }
 
+.form-control, input {
+  border-width: 0px;
+}
+
 footer {
     color: #fff;
 }
