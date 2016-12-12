@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Ahem detector with deep learning  
+title: Ahem detector with deep learning
 tags: [analytics, deep learning, audio, podcast, sound, feature engineering]
 comments: true
 type: post
 ---
 
+  
+   
 ![alt text](https://github.com/worldofpiggy/deeplearning-ahem-detector/raw/master/ahem_explained.PNG "Ahem neural detector explained")
 
 
