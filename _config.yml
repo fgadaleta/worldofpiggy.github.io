@@ -13,7 +13,7 @@ lang: en-us
 # podcast info
 podcast:
   title: Data Science at Home
-  subtitle: podcast subtitle
+  subtitle: the podcast about data science for small and large enterprises
   url: podcast
   description: podcast description 
   author: Francesco Gadaleta
