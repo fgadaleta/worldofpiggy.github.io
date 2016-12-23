@@ -106,3 +106,4 @@ permalink: pretty
 
 gems:
   - jekyll-paginate
+#  - jekyll-seo-tag
