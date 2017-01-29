@@ -578,3 +578,109 @@ and (max-device-width : 1024px)
     margin: 0 auto;
     display: block;
 }
+
+
+
+/* chatbot */
+#chat
+ {
+ position: fixed;
+ z-index: 100;
+width: 170px;
+height: auto;
+padding: 10px;
+background: #088A68;
+color: #EDEDED;
+text-align: center;
+font-family: sans;
+font-size: 16px;
+bottom: 8px;
+right: 15px;
+background-repeat: no-repeat !important;
+cursor: pointer !important;
+border-radius: 5px;
+ }
+ #chatBox
+ {
+ display:none;
+ position:fixed;
+ z-index:100;
+ /*
+ width:410px;
+ height:490px;
+ */
+ padding:5px;
+ background: #EDEDED;
+ color:#FF7700;
+ //text-align:center;
+ font-family:sans;
+ font-size:18px;
+ bottom: 15px;
+ right:10px;
+ cursor:pointer;
+ border: 1px solid #929292;
+ border-radius: 5px;
+ 
+ }
+ 
+ #chatstatus {
+ margin-top:10px;
+ color: #393939;
+ overflow: hidden; 
+ }
+ 
+ #close
+ {
+ position: absolute;
+width: 24px;
+height: 17px;
+padding: 6px 5px 10px 5px;
+text-align: center;
+background: rgba(80, 78, 78, 0.8);
+color: #FFF;
+font-family: sans;
+right: 1px;
+top: -36px;
+border-radius: 5px;
+ }
+ 
+ #title{
+ width: 320px;
+ background: rgba(80, 78, 78, 0.8);
+ color: #FFF;
+ font-family: sans;
+ border-radius: 5px;
+ margin-bottom: 2px;
+ height: 50px;
+ padding-top: 10px;
+
+ }
+ 
+ #embedded{
+ width: 321px;
+height: 416px;
+ }
+ 
+ #subtitle{
+ font-size: .5em;
+ }
+ 
+ #textstatus{
+ max-width: 210px;
+ float: right;
+ font-size: 15px;
+ }
+ 
+ #profilepic{
+ width: 60px;
+ float: left;
+ margin-right: 42px;
+ }
+ 
+ #closeIt{
+ float:right;
+ margin-right: 8px;
+font-size: 47px;
+margin-top: -25px;
+}
+

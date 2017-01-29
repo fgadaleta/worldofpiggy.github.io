@@ -3,13 +3,13 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12 text-center">
-				<h2>Say hi!</h2>
+				<h2>Say hi!!</h2>
 				<hr class="star-primary">
 			</div>
 		</div>
 		<div class="row">
 			<div class="col-lg-8 col-lg-offset-2">
-				<form  action="//formspree.io/francesco.gadaleta@gmail.com" method="POST" name="sentMessage" id="contactForm" novalidate>
+				<form id='formaction' method="POST" name="sentMessage" id="contactForm" novalidate>
 					<div class="row control-group">
 						<div class="form-group col-xs-12 floating-label-form-group controls">
 							<label>Name</label>
@@ -24,10 +24,10 @@
 							<p class="help-block text-danger"></p>
 						</div>
 					</div>
-					<div>
-						<input type="hidden"  name="_subject" value="New submission!">
+					
+					
 						<input type="text" name="_gotcha" style="display:none" />
-					</div>
+					
 					<div class="row control-group">
 						<div class="form-group col-xs-12 floating-label-form-group controls">
 							<label>Message</label>
@@ -38,11 +38,17 @@
 					<br>
 					<div id="success"></div>
 					<div class="row">
-						<div class="form-group col-xs-12">
-							<button type="submit" class="btn btn-success btn-lg">Send</button>
+						<div class="form-group col-xs-12 text-center">
+							<button type="submit" class="btn btn-success btn-lg"> Send Message </button>
 						</div>
 					</div>
 				</form>
+				
+				<script>
+    var contactform =  document.getElementById('formaction');
+    contactform.setAttribute('action', '//formspree.io/' + 'francesco.gadaleta' + '@' + 'gmail' + '.' + 'com');
+</script>
+
 				
 			</div>
 		</div>
