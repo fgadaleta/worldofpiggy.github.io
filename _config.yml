@@ -106,4 +106,8 @@ permalink: pretty
 
 gems:
   - jekyll-paginate
+  - jekyll-admin 
+  - jekyll-coffeescript
+  - jekyll-watch
+  - jekyll-assets
 #  - jekyll-seo-tag

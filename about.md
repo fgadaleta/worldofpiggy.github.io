@@ -105,3 +105,4 @@ communication.
 - I have a public key with fingerprint 3CB8 C721 FE99 BC98 38DC  F463 BFDC E4EC CE3B 7327
 
 
+If you are interested in hiring me for speaking, writing, machine learning and artificial intelligence consulting, or other opportunities, please send me an email. 
