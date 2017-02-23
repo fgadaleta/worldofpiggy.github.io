@@ -1,8 +1,8 @@
 ---
-layout: page
 title: About me
-subtitle: Why would you read this stuff 
-tags: AI, deeplearning, bigdata, data scientist, science, computer, programming 
+layout: page
+subtitle: Why would you read this stuff
+tags: AI, deeplearning, bigdata, data scientist, science, computer, programming
 comments: true
 ---
 
@@ -27,6 +27,8 @@ Here I am, Francesco (and his invisible mate Piggy). I currently live somewhere 
 Technologies I am excited about include **Artificial Intelligence**, **Deep Learning**, Natural Language Processing, of course Computer Programming and Machine Learning.
 
 I see science in every day life. I just love it!
+
+If you are interested in hiring me for speaking, writing, machine learning and artificial intelligence consulting, or other opportunities, please send me an email. 
 
 
 # My story
@@ -103,6 +105,3 @@ communication.
 
 - This site has been proved by [keybase.io](https://keybase.io/fragadaleta)
 - I have a public key with fingerprint 3CB8 C721 FE99 BC98 38DC  F463 BFDC E4EC CE3B 7327
-
-
-If you are interested in hiring me for speaking, writing, machine learning and artificial intelligence consulting, or other opportunities, please send me an email. 
