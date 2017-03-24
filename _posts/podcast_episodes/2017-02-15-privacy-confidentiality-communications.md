@@ -26,7 +26,7 @@ important, if not more.
 In this episode I advice software and habits that we should all get as soon as we can to 
 protect communications with friends, colleagues, and co-workers. 
 
-The script of this episode is published [here](http://localhost:4000/2017/02/13/privacy-confidentiality-communications/)
+The script of this episode is published [here](http://worldofpiggy.com/2017/02/13/privacy-confidentiality-communications/)
 
 Walls can talk!
 
