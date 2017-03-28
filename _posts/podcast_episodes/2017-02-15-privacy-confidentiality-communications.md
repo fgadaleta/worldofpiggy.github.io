@@ -17,17 +17,15 @@ comments: true
 
 <img src="https://s3.amazonaws.com/dshpodcast/media/cover.jpg" />
 
-Talking about security of communication and privacy is never enough, especially when 
-political instabilities are driving leaders towards decisions that will affect people on 
-a global scale. Those who expect to read about data science and machine learning in this 
-post shall postpone their wish to the next post, being the content of this one equally 
-important, if not more. 
+Talking about security of communication and privacy is never enough, especially when
+political instabilities are driving leaders towards decisions that will affect people on
+a global scale. Those who expect to read about data science and machine learning in this
+post shall postpone their wish to the next post, being the content of this one equally
+important, if not more.
 
-In this episode I advice software and habits that we should all get as soon as we can to 
-protect communications with friends, colleagues, and co-workers. 
+In this episode I advice software and habits that we should all get as soon as we can to
+protect communications with friends, colleagues, and co-workers.
 
 The script of this episode is published [here](http://worldofpiggy.com/2017/02/13/privacy-confidentiality-communications/)
 
 Walls can talk!
-
-
