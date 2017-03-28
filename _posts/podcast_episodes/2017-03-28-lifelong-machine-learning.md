@@ -1,7 +1,7 @@
 ---
 layout: episode
 category: podcast
-title: Lifelong Machine Learning machines that learn like humans
+title: Machines that learn like humans
 date: 2017-03-28
 keywords: [machine learning, data science, analytics, google]
 producer: worldofpiggy.com
