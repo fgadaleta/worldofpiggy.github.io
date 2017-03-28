@@ -336,4 +336,4 @@ systems can accomplish in the future. And I am very excited to see and eventuall
 Brett it was very nice to have you here at Data Science at Home. Is there a way for our listeners to reach you?
 
 <strong>Brett:</strong>
-Best way to contact me is via email czyuanacm@gmail.com and Google searching for my name and publications.
+Best way to contact me is via email czyuanacm@gmail.com and Google searching for my name, Brett Zhiyuan Chen and my publications.
