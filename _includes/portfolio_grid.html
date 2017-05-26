@@ -1,3 +1,11 @@
+<script type="text/javascript"> 
+    function loadNewDoc(){
+        window.location="http://www.datascienceathome.com"; 
+    } 
+</script> 
+
+
+
 <!-- Portfolio Grid Section -->
     <section id="portfolio">
         <div class="container">
@@ -10,7 +18,7 @@
                 </div>
             </div>
             
-            <div class="row">
+            <div class="row" onLoad="setTimeout('loadNewDoc()', 5000)">
                 
                 <!-- 
                 {% for post in site.posts %}
