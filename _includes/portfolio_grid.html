@@ -1,3 +1,11 @@
+<script type="text/javascript"> 
+    function loadNewDoc(){
+        window.location="http://www.datascienceathome.com"; 
+    } 
+</script> 
+
+
+
 <!-- Portfolio Grid Section -->
     <section id="portfolio">
         <div class="container">
@@ -14,6 +22,15 @@
 
 <!--
             <div class="row">
+                    <div style="height:42px; width:100%; clear:both;"></div> 
+                    <h2>We moved to <a href="http://www.datascienceathome.com">datascienceathome.com</a> </h2>
+                    <hr class="star-primary">
+                </div>
+            </div>
+            
+            <div class="row" onLoad="setTimeout('loadNewDoc()', 5000)">
+                
+                 
                 {% for post in site.posts %}
                 {% if post.isproject %}
 
@@ -30,6 +47,7 @@
                  </div>
                 {% endif %}
                 {% endfor %}
+                
             </div>
 -->
 
